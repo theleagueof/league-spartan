@@ -92,20 +92,6 @@
 	<string>Q_.glif</string>
 	<key>Q.1</key>
 	<string>Q_.1.glif</string>
-	<key>Q.2</key>
-	<string>Q_.2.glif</string>
-	<key>Q.3</key>
-	<string>Q_.3.glif</string>
-	<key>Q.4</key>
-	<string>Q_.4.glif</string>
-	<key>Q.5</key>
-	<string>Q_.5.glif</string>
-	<key>Q.6</key>
-	<string>Q_.6.glif</string>
-	<key>Q.7</key>
-	<string>Q_.7.glif</string>
-	<key>Q.9</key>
-	<string>Q_.9.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.1</key>
@@ -146,8 +132,6 @@
 	<string>Zcaron_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>a.2</key>
-	<string>a.2.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
 	<key>acircumflex</key>
@@ -464,8 +448,6 @@
 	<string>ugrave.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uniF8FF</key>
-	<string>uniF8FF_.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>

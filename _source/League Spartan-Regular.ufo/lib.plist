@@ -66,13 +66,6 @@
 		<string>Z</string>
 		<string>Zcaron</string>
 		<string>Q.1</string>
-		<string>Q.2</string>
-		<string>Q.3</string>
-		<string>Q.4</string>
-		<string>Q.5</string>
-		<string>Q.6</string>
-		<string>Q.7</string>
-		<string>Q.9</string>
 		<string>R.1</string>
 		<string>a</string>
 		<string>aacute</string>
@@ -137,7 +130,6 @@
 		<string>ydieresis</string>
 		<string>z</string>
 		<string>zcaron</string>
-		<string>a.2</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
@@ -245,7 +237,6 @@
 		<string>ff</string>
 		<string>ffi</string>
 		<string>ffl</string>
-		<string>uniF8FF</string>
 	</array>
 </dict>
 </plist>
