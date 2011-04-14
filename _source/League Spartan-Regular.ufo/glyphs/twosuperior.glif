@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="833"/>
+  <unicode hex="B2"/>
+  <outline>
+    <component base="two" xOffset="-30" yOffset="513" xScale="0.39" yScale="0.39"/>
+  </outline>
+</glyph>

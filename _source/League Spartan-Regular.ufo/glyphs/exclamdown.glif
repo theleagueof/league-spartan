@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="349"/>
+  <unicode hex="A1"/>
+  <outline>
+    <component base="exclam" yOffset="600" yScale="1"/>
+  </outline>
+</glyph>

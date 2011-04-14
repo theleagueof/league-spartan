@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+  <advance width="672"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="16" y="513" type="line"/>
+      <point x="90" y="513" type="line"/>
+      <point x="90" y="622" type="line" smooth="yes"/>
+      <point x="91" y="772"/>
+      <point x="163" y="875"/>
+      <point x="291" y="875" type="curve" smooth="yes"/>
+      <point x="349" y="875"/>
+      <point x="392" y="857"/>
+      <point x="416" y="843" type="curve"/>
+      <point x="375" y="704" type="line"/>
+      <point x="375" y="704"/>
+      <point x="351" y="718"/>
+      <point x="322" y="718" type="curve" smooth="yes"/>
+      <point x="277" y="718"/>
+      <point x="267" y="688"/>
+      <point x="267" y="617" type="curve" smooth="yes"/>
+      <point x="267" y="513" type="line"/>
+      <point x="385" y="513" type="line"/>
+      <point x="385" y="378" type="line"/>
+      <point x="267" y="378" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="378" type="line"/>
+      <point x="16" y="378" type="line"/>
+    </contour>
+    <component base="l" xOffset="375"/>
+  </outline>
+</glyph>
