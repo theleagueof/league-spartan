@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
   <advance width="491"/>
-  <unicode hex="A2"/>
+  <unicode hex="00A2"/>
   <outline>
     <contour>
       <point x="326" y="636" type="line"/>

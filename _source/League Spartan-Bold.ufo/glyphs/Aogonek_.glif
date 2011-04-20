@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="1">
   <advance width="830"/>
-  <unicode hex="104"/>
+  <unicode hex="0104"/>
   <outline>
     <contour>
-      <point x="572" y="-158" type="line" smooth="yes"/>
       <point x="572" y="-245"/>
       <point x="646" y="-275"/>
       <point x="698" y="-275" type="curve" smooth="yes"/>

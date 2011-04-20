@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
   <advance width="349"/>
-  <unicode hex="2E"/>
+  <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="174" y="214" type="line" smooth="yes"/>
       <point x="111" y="214"/>
       <point x="60" y="163"/>
       <point x="60" y="99" type="curve" smooth="yes"/>

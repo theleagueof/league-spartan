@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
   <advance width="776"/>
-  <unicode hex="D0"/>
+  <unicode hex="00D0"/>
   <outline>
     <contour>
       <point x="98" y="0" type="line"/>
@@ -19,7 +19,6 @@
       <point x="98" y="336" type="line"/>
     </contour>
     <contour>
-      <point x="550" y="413" type="line"/>
       <point x="550" y="275"/>
       <point x="455" y="168"/>
       <point x="315" y="168" type="curve" smooth="yes"/>
@@ -32,7 +31,7 @@
       <point x="315" y="657" type="line" smooth="yes"/>
       <point x="454" y="657"/>
       <point x="549" y="550"/>
-      <point x="550" y="413" type="curve"/>
+      <point x="550" y="413" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

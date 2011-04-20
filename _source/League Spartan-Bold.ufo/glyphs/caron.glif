@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
   <advance width="582"/>
-  <unicode hex="2C7"/>
+  <unicode hex="02C7"/>
   <outline>
     <contour>
       <point x="291" y="587" type="line"/>

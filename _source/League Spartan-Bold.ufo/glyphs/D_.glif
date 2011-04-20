@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
   <advance width="738"/>
-  <unicode hex="44"/>
+  <unicode hex="0044"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>

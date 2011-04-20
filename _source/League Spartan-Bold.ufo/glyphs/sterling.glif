@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sterling" format="1">
   <advance width="749"/>
-  <unicode hex="A3"/>
+  <unicode hex="00A3"/>
   <outline>
     <contour>
       <point x="55" y="289" type="line"/>

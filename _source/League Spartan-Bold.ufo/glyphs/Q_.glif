@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
   <advance width="867"/>
-  <unicode hex="51"/>
+  <unicode hex="0051"/>
   <outline>
     <contour>
       <point x="896" y="142" type="line"/>
@@ -28,7 +28,6 @@
       <point x="813" y="-26" type="curve"/>
     </contour>
     <contour>
-      <point x="226" y="413" type="line" smooth="yes"/>
       <point x="226" y="536"/>
       <point x="289" y="651"/>
       <point x="434" y="651" type="curve" smooth="yes"/>

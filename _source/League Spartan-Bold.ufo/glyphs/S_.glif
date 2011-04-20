@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="1">
   <advance width="672"/>
-  <unicode hex="53"/>
+  <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="364" y="840" type="line" smooth="yes"/>
       <point x="231" y="840"/>
       <point x="95" y="742"/>
       <point x="95" y="588" type="curve" smooth="yes"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
   <advance width="548"/>
-  <unicode hex="AF"/>
+  <unicode hex="00AF"/>
   <outline>
     <contour>
       <point x="478" y="634" type="line"/>

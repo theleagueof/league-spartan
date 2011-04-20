@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="1">
   <advance width="830"/>
-  <unicode hex="100"/>
+  <unicode hex="0100"/>
   <outline>
-    <component base="A"/>
-    <component base="macron" xOffset="141" yOffset="312"/>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="258" y="165" type="line"/>
+      <point x="572" y="165" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="502" y="825" type="line"/>
+      <point x="328" y="825" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="570" type="line"/>
+      <point x="416" y="570" type="line"/>
+      <point x="508" y="330" type="line"/>
+      <point x="322" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="946" type="line"/>
+      <point x="619" y="1066" type="line"/>
+      <point x="211" y="1066" type="line"/>
+      <point x="211" y="946" type="line"/>
+    </contour>
   </outline>
 </glyph>

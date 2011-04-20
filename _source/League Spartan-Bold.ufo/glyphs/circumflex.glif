@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
   <advance width="582"/>
-  <unicode hex="2C6"/>
+  <unicode hex="02C6"/>
   <outline>
     <contour>
       <point x="291" y="699" type="line"/>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand" format="1">
   <advance width="833"/>
-  <unicode hex="26"/>
+  <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="29" y="217" type="line" smooth="yes"/>
       <point x="29" y="34"/>
       <point x="194" y="-15"/>
       <point x="316" y="-15" type="curve" smooth="yes"/>
@@ -24,7 +23,7 @@
       <point x="492" y="422" type="line"/>
       <point x="492" y="422"/>
       <point x="655" y="501"/>
-      <point x="655" y="625" type="curve"/>
+      <point x="655" y="625" type="curve" smooth="yes"/>
       <point x="655" y="728"/>
       <point x="575" y="840"/>
       <point x="410" y="840" type="curve" smooth="yes"/>
@@ -42,16 +41,15 @@
       <point x="459" y="210" type="line"/>
       <point x="459" y="210"/>
       <point x="403" y="163"/>
-      <point x="335" y="163" type="curve"/>
+      <point x="335" y="163" type="curve" smooth="yes"/>
       <point x="291" y="163"/>
       <point x="242" y="184"/>
-      <point x="242" y="232" type="curve"/>
+      <point x="242" y="232" type="curve" smooth="yes"/>
       <point x="242" y="308"/>
       <point x="328" y="339"/>
       <point x="328" y="339" type="curve"/>
     </contour>
     <contour>
-      <point x="410" y="707" type="line" smooth="yes"/>
       <point x="471" y="707"/>
       <point x="490" y="669"/>
       <point x="490" y="625" type="curve" smooth="yes"/>
@@ -60,7 +58,7 @@
       <point x="398" y="524" type="curve"/>
       <point x="398" y="524"/>
       <point x="338" y="577"/>
-      <point x="338" y="625" type="curve"/>
+      <point x="338" y="625" type="curve" smooth="yes"/>
       <point x="338" y="669"/>
       <point x="359" y="707"/>
       <point x="410" y="707" type="curve" smooth="yes"/>

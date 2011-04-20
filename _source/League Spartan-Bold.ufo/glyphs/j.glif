@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
   <advance width="297"/>
-  <unicode hex="6A"/>
+  <unicode hex="006A"/>
   <outline>
     <contour>
       <point x="237" y="-79" type="line" smooth="yes"/>
@@ -11,7 +11,7 @@
       <point x="-32" y="-275"/>
       <point x="-64" y="-254"/>
       <point x="-89" y="-243" type="curve"/>
-      <point x="-34" y="-100" type="line" smooth="yes"/>
+      <point x="-34" y="-100" type="line"/>
       <point x="-34" y="-100"/>
       <point x="-11" y="-115"/>
       <point x="11" y="-115" type="curve" smooth="yes"/>
@@ -22,7 +22,6 @@
       <point x="237" y="513" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="830" type="line" smooth="yes"/>
       <point x="93" y="830"/>
       <point x="46" y="783"/>
       <point x="46" y="725" type="curve" smooth="yes"/>

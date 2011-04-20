@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
   <advance width="442"/>
-  <unicode hex="2D"/>
+  <unicode hex="002D"/>
   <outline>
     <contour>
       <point x="382" y="213" type="line"/>
