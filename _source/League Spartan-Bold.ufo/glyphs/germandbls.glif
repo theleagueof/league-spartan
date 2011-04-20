@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
-  <advance width="833"/>
+  <advance width="656"/>
   <unicode hex="DF"/>
   <outline>
-    <contour>
-      <point x="326" y="389" type="line"/>
-      <point x="326" y="524" type="line"/>
-    </contour>
     <contour>
       <point x="326" y="147" type="line"/>
       <point x="395" y="147"/>
