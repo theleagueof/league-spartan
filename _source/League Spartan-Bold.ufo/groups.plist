@@ -4,16 +4,12 @@
 <dict>
 	<key>@MMK_L_C</key>
 	<array>
-		<string>C'</string>
-		<string>Cacute</string>
-		<string>Ccaron</string>
+		<string>Ccaron'</string>
 		<string>Ccedilla</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
-		<string>E'</string>
-		<string>Eacute</string>
-		<string>Ecaron</string>
+		<string>Ecaron'</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
 		<string>Edotaccent</string>
@@ -23,26 +19,20 @@
 	</array>
 	<key>@MMK_L_Icircumflex</key>
 	<array>
-		<string>Icircumflex'</string>
-		<string>Idieresis</string>
-		<string>Imacron</string>
+		<string>Imacron'</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>imacron</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
-		<string>L'</string>
-		<string>Lacute</string>
-		<string>Lcaron</string>
+		<string>Lcaron'</string>
 		<string>Lcommaaccent</string>
 		<string>Lslash</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
-		<string>O'</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
+		<string>Ocircumflex'</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
 		<string>Ohungarumlaut</string>
@@ -52,34 +42,21 @@
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
-		<string>R'</string>
-		<string>Racute</string>
-		<string>Rcaron</string>
+		<string>Rcaron'</string>
 		<string>Rcommaaccent</string>
 		<string>R.1</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
-		<string>T'</string>
-		<string>Tcaron</string>
-		<string>Tcommaaccent</string>
-	</array>
-	<key>@MMK_L_V</key>
-	<array>
-		<string>V'</string>
-		<string>W</string>
+		<string>Tcommaaccent'</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
-		<string>Y'</string>
-		<string>Yacute</string>
-		<string>Ydieresis</string>
+		<string>Ydieresis'</string>
 	</array>
 	<key>@MMK_L_aacute</key>
 	<array>
-		<string>a'</string>
-		<string>aacute</string>
-		<string>abreve</string>
+		<string>abreve'</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
@@ -90,9 +67,7 @@
 	</array>
 	<key>@MMK_L_b</key>
 	<array>
-		<string>b'</string>
-		<string>h</string>
-		<string>m</string>
+		<string>m'</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
@@ -103,9 +78,7 @@
 	</array>
 	<key>@MMK_L_c</key>
 	<array>
-		<string>c'</string>
-		<string>cacute</string>
-		<string>ccaron</string>
+		<string>ccaron'</string>
 		<string>ccedilla</string>
 		<string>e</string>
 		<string>eacute</string>
@@ -130,9 +103,7 @@
 	</array>
 	<key>@MMK_L_d</key>
 	<array>
-		<string>A'</string>
-		<string>AE</string>
-		<string>Aacute</string>
+		<string>Aacute'</string>
 		<string>Abreve</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
@@ -319,43 +290,25 @@
 		<string>ring</string>
 		<string>tilde</string>
 	</array>
-	<key>@MMK_L_g</key>
-	<array>
-		<string>g'</string>
-		<string>gcommaaccent</string>
-	</array>
 	<key>@MMK_L_quotesingle</key>
 	<array>
-		<string>quotesingle'</string>
-		<string>quotedblleft</string>
-		<string>quotedblright</string>
+		<string>quotedblright'</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
-		<string>r'</string>
-		<string>racute</string>
-		<string>rcaron</string>
+		<string>rcaron'</string>
 		<string>rcommaaccent</string>
 	</array>
 	<key>@MMK_L_s</key>
 	<array>
-		<string>s'</string>
-		<string>sacute</string>
-		<string>scaron</string>
+		<string>scaron'</string>
 		<string>scommaaccent</string>
-	</array>
-	<key>@MMK_L_t</key>
-	<array>
-		<string>t'</string>
-		<string>tcommaaccent</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
-		<string>u'</string>
-		<string>uacute</string>
-		<string>ucircumflex</string>
+		<string>ucircumflex'</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
 		<string>uhungarumlaut</string>
@@ -365,17 +318,13 @@
 	</array>
 	<key>@MMK_L_v</key>
 	<array>
-		<string>v'</string>
-		<string>w</string>
-		<string>y</string>
+		<string>y'</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
-		<string>A'</string>
-		<string>Aacute</string>
-		<string>Abreve</string>
+		<string>Abreve'</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
@@ -386,31 +335,23 @@
 	</array>
 	<key>@MMK_R_C</key>
 	<array>
-		<string>C'</string>
-		<string>Cacute</string>
-		<string>Ccaron</string>
+		<string>Ccaron'</string>
 		<string>Ccedilla</string>
 	</array>
 	<key>@MMK_R_G</key>
 	<array>
-		<string>G'</string>
-		<string>Gcommaaccent</string>
-		<string>Q</string>
+		<string>Q'</string>
 	</array>
 	<key>@MMK_R_Icircumflex</key>
 	<array>
-		<string>Icircumflex'</string>
-		<string>Idieresis</string>
-		<string>Imacron</string>
+		<string>Imacron'</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>imacron</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
-		<string>O'</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
+		<string>Ocircumflex'</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
 		<string>Ohungarumlaut</string>
@@ -420,34 +361,21 @@
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
-		<string>S'</string>
-		<string>Sacute</string>
-		<string>Scaron</string>
+		<string>Scaron'</string>
 		<string>Scommaaccent</string>
 		<string>dollar</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
-		<string>T'</string>
-		<string>Tcaron</string>
-		<string>Tcommaaccent</string>
-	</array>
-	<key>@MMK_R_V</key>
-	<array>
-		<string>V'</string>
-		<string>W</string>
+		<string>Tcommaaccent'</string>
 	</array>
 	<key>@MMK_R_Y</key>
 	<array>
-		<string>Y'</string>
-		<string>Yacute</string>
-		<string>Ydieresis</string>
+		<string>Ydieresis'</string>
 	</array>
 	<key>@MMK_R_aacute</key>
 	<array>
-		<string>a'</string>
-		<string>aacute</string>
-		<string>abreve</string>
+		<string>abreve'</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
@@ -458,9 +386,7 @@
 	</array>
 	<key>@MMK_R_c</key>
 	<array>
-		<string>c'</string>
-		<string>cacute</string>
-		<string>ccaron</string>
+		<string>ccaron'</string>
 		<string>ccedilla</string>
 		<string>e</string>
 		<string>eacute</string>
@@ -483,32 +409,13 @@
 		<string>otilde</string>
 		<string>cent</string>
 	</array>
-	<key>@MMK_R_colon</key>
-	<array>
-		<string>colon'</string>
-		<string>semicolon</string>
-	</array>
 	<key>@MMK_R_comma</key>
 	<array>
-		<string>comma'</string>
-		<string>ellipsis</string>
-		<string>period</string>
-	</array>
-	<key>@MMK_R_d</key>
-	<array>
-		<string>d'</string>
-		<string>q</string>
-	</array>
-	<key>@MMK_R_g</key>
-	<array>
-		<string>g'</string>
-		<string>gcommaaccent</string>
+		<string>period'</string>
 	</array>
 	<key>@MMK_R_h</key>
 	<array>
-		<string>AE'</string>
-		<string>B</string>
-		<string>D</string>
+		<string>D'</string>
 		<string>Dcaron</string>
 		<string>Dcroat</string>
 		<string>E</string>
@@ -677,9 +584,7 @@
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
-		<string>I'</string>
-		<string>Iacute</string>
-		<string>Igrave</string>
+		<string>Igrave'</string>
 		<string>dotlessi</string>
 		<string>i</string>
 		<string>iacute</string>
@@ -692,17 +597,13 @@
 	</array>
 	<key>@MMK_R_quotesingle</key>
 	<array>
-		<string>quotesingle'</string>
-		<string>quotedblleft</string>
-		<string>quotedblright</string>
+		<string>quotedblright'</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>
-		<string>m'</string>
-		<string>n</string>
-		<string>nacute</string>
+		<string>nacute'</string>
 		<string>ncaron</string>
 		<string>ncommaaccent</string>
 		<string>ntilde</string>
@@ -714,21 +615,12 @@
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
-		<string>s'</string>
-		<string>sacute</string>
-		<string>scaron</string>
+		<string>scaron'</string>
 		<string>scommaaccent</string>
-	</array>
-	<key>@MMK_R_t</key>
-	<array>
-		<string>t'</string>
-		<string>tcommaaccent</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
-		<string>u'</string>
-		<string>uacute</string>
-		<string>ucircumflex</string>
+		<string>ucircumflex'</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
 		<string>uhungarumlaut</string>
@@ -738,17 +630,13 @@
 	</array>
 	<key>@MMK_R_v</key>
 	<array>
-		<string>v'</string>
-		<string>w</string>
-		<string>y</string>
+		<string>y'</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>
-		<string>z'</string>
-		<string>zacute</string>
-		<string>zcaron</string>
+		<string>zcaron'</string>
 		<string>zdotaccent</string>
 	</array>
 </dict>

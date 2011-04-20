@@ -17,5 +17,8 @@
       <point x="213" y="791"/>
       <point x="162" y="791" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="162" y="513" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

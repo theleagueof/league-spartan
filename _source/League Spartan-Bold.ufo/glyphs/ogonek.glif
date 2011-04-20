@@ -25,5 +25,8 @@
       <point x="70" y="-79"/>
       <point x="70" y="-158" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="333" y="10" type="move" name="_ogonek"/>
+    </contour>
   </outline>
 </glyph>

@@ -23,5 +23,11 @@
       <point x="694" y="825" type="line"/>
       <point x="506" y="825" type="line"/>
     </contour>
+    <contour>
+      <point x="670" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="372" y="825" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>
