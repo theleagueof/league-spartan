@@ -33,7 +33,7 @@
 		<key>@MMK_R_T</key>
 		<integer>-32</integer>
 		<key>@MMK_R_V</key>
-		<integer>-33</integer>
+		<integer>-32</integer>
 	</dict>
 	<key>@MMK_L_R</key>
 	<dict>
@@ -55,6 +55,8 @@
 		<key>@MMK_R_A</key>
 		<integer>-48</integer>
 		<key>@MMK_R_C</key>
+		<integer>-32</integer>
+		<key>@MMK_R_O</key>
 		<integer>-32</integer>
 		<key>@MMK_R_T</key>
 		<integer>14</integer>
@@ -79,8 +81,10 @@
 		<integer>-91</integer>
 		<key>@MMK_R_C</key>
 		<integer>-33</integer>
+		<key>@MMK_R_G</key>
+		<integer>-32</integer>
 		<key>@MMK_R_O</key>
-		<integer>-33</integer>
+		<integer>-32</integer>
 		<key>@MMK_R_aacute</key>
 		<integer>-68</integer>
 		<key>@MMK_R_c</key>
@@ -150,6 +154,21 @@
 		<key>@MMK_R_v</key>
 		<integer>-5</integer>
 	</dict>
+	<key>@MMK_L_d</key>
+	<dict>
+		<key>@MMK_R_C</key>
+		<integer>-32</integer>
+		<key>@MMK_R_S</key>
+		<integer>-20</integer>
+		<key>@MMK_R_T</key>
+		<integer>-48</integer>
+		<key>@MMK_R_V</key>
+		<integer>-85</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-90</integer>
+		<key>@MMK_R_v</key>
+		<integer>-6</integer>
+	</dict>
 	<key>@MMK_L_g</key>
 	<dict>
 		<key>@MMK_R_c</key>
@@ -161,6 +180,10 @@
 	</dict>
 	<key>@MMK_L_quotesingle</key>
 	<dict>
+		<key>@MMK_R_aacute</key>
+		<integer>-55</integer>
+		<key>@MMK_R_c</key>
+		<integer>-55</integer>
 		<key>@MMK_R_s</key>
 		<integer>-58</integer>
 	</dict>
@@ -210,6 +233,8 @@
 		<integer>-45</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>18</integer>
+		<key>@MMK_R_s</key>
+		<integer>-28</integer>
 	</dict>
 	<key>B</key>
 	<dict>
@@ -339,54 +364,74 @@
 	</dict>
 	<key>K</key>
 	<dict>
+		<key>a</key>
+		<integer>-30</integer>
+		<key>aacute</key>
+		<integer>-30</integer>
+		<key>abreve</key>
+		<integer>-30</integer>
+		<key>acircumflex</key>
+		<integer>-30</integer>
+		<key>adieresis</key>
+		<integer>-30</integer>
+		<key>agrave</key>
+		<integer>-30</integer>
+		<key>amacron</key>
+		<integer>-30</integer>
+		<key>aogonek</key>
+		<integer>-30</integer>
+		<key>aring</key>
+		<integer>-30</integer>
+		<key>atilde</key>
+		<integer>-30</integer>
 		<key>c</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>cacute</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ccaron</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ccedilla</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>cent</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>e</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>eacute</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ecaron</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ecircumflex</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>edieresis</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>edotaccent</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>egrave</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>emacron</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>eogonek</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>o</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>oacute</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ocircumflex</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>odieresis</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>oe</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ograve</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>ohungarumlaut</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>omacron</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>oslash</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>otilde</key>
-		<integer>-32</integer>
+		<integer>-35</integer>
 		<key>v</key>
 		<integer>-52</integer>
 		<key>w</key>
@@ -721,6 +766,26 @@
 	</dict>
 	<key>k</key>
 	<dict>
+		<key>a</key>
+		<integer>-25</integer>
+		<key>aacute</key>
+		<integer>-25</integer>
+		<key>abreve</key>
+		<integer>-25</integer>
+		<key>acircumflex</key>
+		<integer>-25</integer>
+		<key>adieresis</key>
+		<integer>-25</integer>
+		<key>agrave</key>
+		<integer>-25</integer>
+		<key>amacron</key>
+		<integer>-25</integer>
+		<key>aogonek</key>
+		<integer>-25</integer>
+		<key>aring</key>
+		<integer>-25</integer>
+		<key>atilde</key>
+		<integer>-25</integer>
 		<key>c</key>
 		<integer>-25</integer>
 		<key>cacute</key>
