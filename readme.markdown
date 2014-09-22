@@ -1,4 +1,4 @@
-![League Spartan](https://raw.githubusercontent.com/micahbrich/league-spartan/master/_images/league-spartan-1.png?token=25366__eyJzY29wZSI6IlJhd0Jsb2I6bWljYWhicmljaC9sZWFndWUtc3BhcnRhbi9tYXN0ZXIvX2ltYWdlcy9sZWFndWUtc3BhcnRhbi0xLnBuZyIsImV4cGlyZXMiOjE0MTE5NjE2Nzl9--a985ebda8dfb45d1cc4a87b03fc961cddf3e81dd)
+![League Spartan]()
 
 League Spartan
 =============
