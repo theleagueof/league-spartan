@@ -1,11 +1,7 @@
 League Spartan
 =============
-_by [Caroline Hadilaksono](http://www.hadilaksono.com), [Micah Rich](http://micahrich.com), [Tyler Finck](http://www.sursly.com)_
+_by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.sursly.com)_
 
-Revival of ATF's Spartan, a geometric sans-serif that has no problem kicking it's enemies in the chest.
+**A fantastic new revival of ATF's classic Spartan, a geometric sans-serif that has no problem kicking its enemies in the chest.** 
 
-- - -
-
-There's some reference images & scans in the <a href="https://github.com/micahbrich/league-spartan/tree/master/_reference">`reference`</a> folder
-
-We'll definitely need to clean up the structure before putting it on The League, but that's fine. Also, Caroline took some creative liberties to make it kind of her own, of which she described a little in this <a href="http://blog.hadilaksono.com/post/4221146974/minding-my-qs-immersing-myself-all-day-on-type">blog post</a>.
+Starting the family out with a single weight, we've added in our own take on an strong, historical typeface, and made sure to include an extensive characterset – currently totaling over 300 glyphs. Over time, the open-source license will allow us expand into League Spartan into a full family, with multiple weights and styles, and we're starting by releasing our first Bold style for this exciting, modern classic now.

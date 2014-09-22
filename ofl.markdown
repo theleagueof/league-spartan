@@ -1,4 +1,4 @@
-	Copyright (c) <Date>, <Author Name> <author email>, with Reserved Font Name: "<Font Name>".
+	Copyright (c) September 22 2014, Micah Rich micah@micahrich.com, with Reserved Font Name: "League Spartan".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:
