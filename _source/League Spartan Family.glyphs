@@ -1,10 +1,50 @@
 {
 DisplayStrings = (
 n,
-onononnoo
+Aonononnoo,
+onanoaoaa
 );
 date = "2014-09-22 02:04:12 +0000";
 familyName = "League Spartan";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature sups;\012feature frac;\012feature ordn;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub f f j by f_f_j;\012sub f f t by f_f_t;\012sub f j by f_j;\012sub f t by f_t;\012";
+name = dlig;
+},
+{
+automatic = 1;
+code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+name = liga;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -5557,7 +5597,7 @@ rightKerningGroup = R;
 },
 {
 glyphname = a;
-lastChange = "2015-12-23 09:55:28 +0000";
+lastChange = "2015-12-23 16:39:45 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -5609,7 +5649,48 @@ width = 683;
 {
 layerId = "2A961F25-8D0E-4F3D-9AC7-EA5E11B6DCD4";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"114 374 OFFCURVE",
+"181 448 OFFCURVE",
+"289 448 CURVE SMOOTH",
+"377 448 OFFCURVE",
+"450 374 OFFCURVE",
+"450 256 CURVE SMOOTH",
+"450 138 OFFCURVE",
+"380 65 OFFCURVE",
+"289 65 CURVE SMOOTH",
+"181 65 OFFCURVE",
+"114 138 OFFCURVE",
+"114 256 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"23 106 OFFCURVE",
+"130 -15 OFFCURVE",
+"278 -15 CURVE SMOOTH",
+"341.851 -15 OFFCURVE",
+"405.702 12.962 OFFCURVE",
+"448 63.499 CURVE",
+"448 0 LINE",
+"535 0 LINE",
+"535 513 LINE",
+"446 513 LINE",
+"446 455.658 LINE",
+"395.443 510.822 OFFCURVE",
+"341.811 528 OFFCURVE",
+"278 528 CURVE SMOOTH",
+"130 528 OFFCURVE",
+"23 406 OFFCURVE",
+"23 256 CURVE SMOOTH"
+);
+}
+);
+width = 595;
 }
 );
 leftKerningGroup = aacute;
@@ -9099,7 +9180,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2015-12-23 11:12:09 +0000";
+lastChange = "2015-12-23 16:31:56 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -9149,8 +9230,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"40 98 OFFCURVE",
-"156 -15 OFFCURVE",
+"139 369 OFFCURVE",
+"222 448 OFFCURVE",
+"329 448 CURVE SMOOTH",
+"436 448 OFFCURVE",
+"519 369 OFFCURVE",
+"519 257 CURVE SMOOTH",
+"519 146 OFFCURVE",
+"441 65 OFFCURVE",
+"329 65 CURVE SMOOTH",
+"217 65 OFFCURVE",
+"139 146 OFFCURVE",
+"139 257 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"48 98 OFFCURVE",
+"168 -15 OFFCURVE",
 "329 -15 CURVE SMOOTH",
 "490 -15 OFFCURVE",
 "610 98 OFFCURVE",
@@ -9158,26 +9256,9 @@ nodes = (
 "610 416 OFFCURVE",
 "484 528 OFFCURVE",
 "329 528 CURVE SMOOTH",
-"166 528 OFFCURVE",
-"40 416 OFFCURVE",
-"40 257 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"135 369 OFFCURVE",
-"222 449 OFFCURVE",
-"329 449 CURVE SMOOTH",
-"436 449 OFFCURVE",
-"523 369 OFFCURVE",
-"523 257 CURVE SMOOTH",
-"523 146 OFFCURVE",
-"441 66 OFFCURVE",
-"329 66 CURVE SMOOTH",
-"213 66 OFFCURVE",
-"135 146 OFFCURVE",
-"135 257 CURVE SMOOTH"
+"174 528 OFFCURVE",
+"48 416 OFFCURVE",
+"48 257 CURVE SMOOTH"
 );
 }
 );
