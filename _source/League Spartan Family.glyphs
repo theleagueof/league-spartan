@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"rfnrhlonotfecdrmrbpqk/Placeholder m/Placeholder o/Placeholder onoonon",
-k
+"rfnrhlonotfecdrmrbpqk/Placeholder m/Placeholder o/Placeholder onoonon"
 );
 date = "2014-09-22 02:04:12 +0000";
 familyName = "League Spartan";
@@ -11162,7 +11161,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2015-12-28 14:12:13 +0000";
+lastChange = "2015-12-28 14:31:06 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -11209,17 +11208,17 @@ closed = 1;
 nodes = (
 "35 433 LINE",
 "120 433 LINE",
-"120 114 LINE SMOOTH",
+"120 124 LINE SMOOTH",
 "120 43 OFFCURVE",
-"166 -15 OFFCURVE",
-"241 -15 CURVE SMOOTH",
-"300 -15 OFFCURVE",
+"177 -15 OFFCURVE",
+"254 -15 CURVE SMOOTH",
+"304 -15 OFFCURVE",
 "342 18 OFFCURVE",
 "342 18 CURVE",
 "317 88 LINE",
 "317 88 OFFCURVE",
 "288 64 OFFCURVE",
-"248 64 CURVE SMOOTH",
+"254 64 CURVE SMOOTH",
 "219 64 OFFCURVE",
 "207 93 OFFCURVE",
 "207 130 CURVE SMOOTH",
