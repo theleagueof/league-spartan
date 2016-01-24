@@ -2862,7 +2862,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2016-01-24 20:16:41 +0000";
+lastChange = "2016-01-24 20:47:56 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -2895,11 +2895,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"588 0 LINE",
+"587 0 LINE",
 "680 0 LINE",
 "680 825 LINE",
 "588 825 LINE",
 "588 161 LINE",
+"586 161 LINE",
 "162 825 LINE",
 "57 825 LINE",
 "57 0 LINE",
