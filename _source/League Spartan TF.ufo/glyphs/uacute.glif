@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="1">
+  <advance width="656"/>
+  <unicode hex="00FA"/>
+  <outline>
+    <contour>
+      <point x="563" y="725" type="line"/>
+      <point x="472" y="840" type="line"/>
+      <point x="269" y="664" type="line"/>
+      <point x="325" y="587" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+</glyph>
