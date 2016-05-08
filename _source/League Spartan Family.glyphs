@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "\U00B7:/ellipsis .",
-"shhit;oy!\U00A1\U00BF.OI??\U00BF"
+"shhit;oy!\U00A1\U00BF.OI??\U00BF",
+"a*/backslash/bullet #\"'//_{}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright"
 );
 date = "2014-09-22 02:04:12 +0000";
 familyName = "League Spartan";
@@ -82,6 +83,7 @@ verticalStems = (
 825,
 513
 );
+visible = 1;
 weight = Bold;
 weightValue = 177;
 widthValue = 5;
@@ -124,6 +126,7 @@ verticalStems = (
 825,
 513
 );
+visible = 1;
 weightValue = 87;
 widthValue = 5;
 xHeight = 513;
@@ -15269,7 +15272,7 @@ unicode = 00B3;
 },
 {
 glyphname = asterisk;
-lastChange = "2015-12-23 09:57:56 +0000";
+lastChange = "2016-05-08 00:34:52 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -15301,10 +15304,34 @@ width = 488;
 {
 layerId = "2A961F25-8D0E-4F3D-9AC7-EA5E11B6DCD4";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"288 860 LINE",
+"220 860 LINE",
+"219 730 LINE",
+"94 769 LINE",
+"73 704 LINE",
+"198 663 LINE",
+"122 556 LINE",
+"177 516 LINE",
+"254 620 LINE",
+"331 516 LINE",
+"386 556 LINE",
+"310 662 LINE",
+"436 704 LINE",
+"415 769 LINE",
+"289 729 LINE"
+);
 }
 );
+width = 509;
+}
+);
+leftMetricsKey = "=n-15";
 rightKerningGroup = d;
+rightMetricsKey = "=|n-15";
 unicode = 002A;
 },
 {
@@ -15979,7 +16006,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2016-04-03 19:46:47 +0000";
+lastChange = "2016-05-08 00:21:36 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -16047,10 +16074,10 @@ closed = 1;
 nodes = (
 "118 607 LINE",
 "129 659 OFFCURVE",
-"175 757 OFFCURVE",
-"293 758 CURVE SMOOTH",
-"358 759 OFFCURVE",
-"441 716 OFFCURVE",
+"182 758 OFFCURVE",
+"300 758 CURVE SMOOTH",
+"385 758 OFFCURVE",
+"441 710 OFFCURVE",
 "441 637 CURVE SMOOTH",
 "441 557 OFFCURVE",
 "395 513 OFFCURVE",
@@ -16102,7 +16129,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2016-04-03 19:56:52 +0000";
+lastChange = "2016-05-08 00:23:26 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -16190,10 +16217,10 @@ nodes = (
 "205 52 OFFCURVE",
 "159 8 OFFCURVE",
 "159 -72 CURVE SMOOTH",
-"159 -151 OFFCURVE",
-"242 -194 OFFCURVE",
-"307 -193 CURVE SMOOTH",
-"425 -192 OFFCURVE",
+"159 -145 OFFCURVE",
+"215 -193 OFFCURVE",
+"300 -193 CURVE SMOOTH",
+"418 -193 OFFCURVE",
 "471 -94 OFFCURVE",
 "482 -42 CURVE"
 );
