@@ -1,8 +1,10 @@
 {
 DisplayStrings = (
 "\U00B7:/ellipsis .",
-"shhit;oy!\U00A1\U00BF.OI??\U00BF",
-"a*/backslash/bullet #\"'//_{}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright"
+"https:/backslash/backslash \012before/bullet after",
+"a*/backslash/bullet #,\"'//_{}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright",
+S,
+",/quotedblleft/quotedblright/quoteleft"
 );
 date = "2014-09-22 02:04:12 +0000";
 familyName = "League Spartan";
@@ -15336,7 +15338,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2015-12-23 09:57:56 +0000";
+lastChange = "2016-05-21 11:34:21 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -15357,7 +15359,18 @@ width = 611;
 {
 layerId = "2A961F25-8D0E-4F3D-9AC7-EA5E11B6DCD4";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"117 860 LINE",
+"23 860 LINE",
+"435 0 LINE",
+"529 0 LINE"
+);
+}
+);
+width = 552;
 }
 );
 rightKerningGroup = d;
@@ -15421,7 +15434,7 @@ unicode = 00B7;
 },
 {
 glyphname = bullet;
-lastChange = "2015-12-23 09:57:56 +0000";
+lastChange = "2016-05-21 11:31:08 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -15450,7 +15463,26 @@ width = 716;
 {
 layerId = "2A961F25-8D0E-4F3D-9AC7-EA5E11B6DCD4";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"205 542 OFFCURVE",
+"136 473 OFFCURVE",
+"136 386 CURVE SMOOTH",
+"136 301 OFFCURVE",
+"205 232 OFFCURVE",
+"290 232 CURVE SMOOTH",
+"377 232 OFFCURVE",
+"446 301 OFFCURVE",
+"446 386 CURVE SMOOTH",
+"446 473 OFFCURVE",
+"377 542 OFFCURVE",
+"290 542 CURVE SMOOTH"
+);
+}
+);
+width = 582;
 }
 );
 rightKerningGroup = d;
@@ -16453,7 +16485,7 @@ unicode = 003B;
 },
 {
 glyphname = slash;
-lastChange = "2015-12-23 09:57:56 +0000";
+lastChange = "2016-05-21 11:34:25 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
@@ -16474,7 +16506,18 @@ width = 611;
 {
 layerId = "2A961F25-8D0E-4F3D-9AC7-EA5E11B6DCD4";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"23 -120 LINE",
+"118 -120 LINE",
+"530 860 LINE",
+"436 860 LINE"
+);
+}
+);
+width = 553;
 }
 );
 rightKerningGroup = d;
