@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="522"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="83" type="line"/>
+      <point x="157" y="83" type="line"/>
+      <point x="157" y="389" type="line"/>
+      <point x="278" y="484" type="line"/>
+      <point x="278" y="568" type="line"/>
+      <point x="157" y="473" type="line"/>
+      <point x="157" y="825" type="line"/>
+      <point x="65" y="825" type="line"/>
+      <point x="65" y="401" type="line"/>
+      <point x="-20" y="335" type="line"/>
+      <point x="-20" y="251" type="line"/>
+      <point x="65" y="317" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=L</string>
+    </dict>
+  </lib>
+</glyph>

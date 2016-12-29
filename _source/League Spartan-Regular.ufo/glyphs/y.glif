@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="558"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="101" y="513" type="line"/>
+      <point x="-3" y="513" type="line"/>
+      <point x="239" y="80" type="line"/>
+      <point x="62" y="-260" type="line"/>
+      <point x="160" y="-260" type="line"/>
+      <point x="563" y="513" type="line"/>
+      <point x="458" y="513" type="line"/>
+      <point x="288" y="165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|k+2</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=k</string>
+    </dict>
+  </lib>
+</glyph>

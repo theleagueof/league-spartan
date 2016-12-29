@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="719"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="238" y="0" type="line" smooth="yes"/>
+      <point x="475" y="0"/>
+      <point x="674" y="173"/>
+      <point x="674" y="410" type="curve" smooth="yes"/>
+      <point x="674" y="654"/>
+      <point x="464" y="825"/>
+      <point x="238" y="825" type="curve" smooth="yes"/>
+      <point x="65" y="825" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="740" type="line" smooth="yes"/>
+      <point x="425" y="740"/>
+      <point x="576" y="591"/>
+      <point x="576" y="410" type="curve" smooth="yes"/>
+      <point x="576" y="235"/>
+      <point x="435" y="85"/>
+      <point x="235" y="85" type="curve" smooth="yes"/>
+      <point x="157" y="85" type="line"/>
+      <point x="157" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="909"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="427" y="0" type="line"/>
+      <point x="869" y="0" type="line"/>
+      <point x="869" y="83" type="line"/>
+      <point x="519" y="83" type="line"/>
+      <point x="519" y="379" type="line"/>
+      <point x="849" y="379" type="line"/>
+      <point x="849" y="462" type="line"/>
+      <point x="519" y="462" type="line"/>
+      <point x="519" y="742" type="line"/>
+      <point x="869" y="742" type="line"/>
+      <point x="869" y="825" type="line"/>
+      <point x="372" y="825" type="line"/>
+      <point x="-12" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="179" y="192" type="line"/>
+      <point x="427" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="725" type="line"/>
+      <point x="427" y="725" type="line"/>
+      <point x="427" y="275" type="line"/>
+      <point x="216" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=E</string>
+    </dict>
+  </lib>
+</glyph>

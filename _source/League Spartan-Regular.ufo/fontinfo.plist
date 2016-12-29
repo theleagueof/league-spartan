@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>900</integer>
+	<key>capHeight</key>
+	<integer>825</integer>
+	<key>descender</key>
+	<integer>-350</integer>
+	<key>familyName</key>
+	<string>League Spartan</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/09/22 05:04:12</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>League Spartan</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-16</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>516</integer>
+		<integer>700</integer>
+		<integer>716</integer>
+		<integer>800</integer>
+		<integer>816</integer>
+		<integer>825</integer>
+		<integer>841</integer>
+		<integer>900</integer>
+		<integer>916</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-366</integer>
+		<integer>-350</integer>
+		<integer>-216</integer>
+		<integer>-200</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>92</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>860</integer>
+		<integer>825</integer>
+		<integer>513</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>bold</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>513</integer>
+</dict>
+</plist>
