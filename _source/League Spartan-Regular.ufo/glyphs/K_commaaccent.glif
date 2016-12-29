@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="605"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="589" y="825" type="line"/>
+      <point x="471" y="825" type="line"/>
+      <point x="157" y="440" type="line"/>
+      <point x="157" y="825" type="line"/>
+      <point x="65" y="825" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="386" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="246" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="-43"/>
+      <point x="384" y="-70"/>
+      <point x="384" y="-113" type="curve" smooth="yes"/>
+      <point x="384" y="-154"/>
+      <point x="353" y="-224"/>
+      <point x="278" y="-290" type="curve"/>
+      <point x="253" y="-268" type="line"/>
+      <point x="270" y="-249"/>
+      <point x="298" y="-207"/>
+      <point x="302" y="-165" type="curve"/>
+      <point x="270" y="-154"/>
+      <point x="256" y="-132"/>
+      <point x="256" y="-105" type="curve" smooth="yes"/>
+      <point x="256" y="-73"/>
+      <point x="283" y="-43"/>
+      <point x="317" y="-43" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=K</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=K</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="1">
+  <advance width="262"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="93" y="513" type="line"/>
+      <point x="180" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="764" type="line"/>
+      <point x="265" y="840" type="line"/>
+      <point x="86" y="656" type="line"/>
+      <point x="128" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
+</glyph>

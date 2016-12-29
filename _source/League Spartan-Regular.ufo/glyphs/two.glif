@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="668"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="449" y="758"/>
+      <point x="517" y="698"/>
+      <point x="517" y="606" type="curve" smooth="yes"/>
+      <point x="517" y="371"/>
+      <point x="60" y="35"/>
+      <point x="60" y="35" type="curve"/>
+      <point x="60" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="633" y="82" type="line"/>
+      <point x="229" y="82" type="line" smooth="yes"/>
+      <point x="229" y="82"/>
+      <point x="615" y="356"/>
+      <point x="615" y="607" type="curve" smooth="yes"/>
+      <point x="615" y="753"/>
+      <point x="514" y="840"/>
+      <point x="361" y="840" type="curve" smooth="yes"/>
+      <point x="131" y="840"/>
+      <point x="72" y="611"/>
+      <point x="72" y="611" type="curve"/>
+      <point x="158" y="570" type="line"/>
+      <point x="158" y="570"/>
+      <point x="206" y="758"/>
+      <point x="360" y="758" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=G+15</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O-10</string>
+    </dict>
+  </lib>
+</glyph>

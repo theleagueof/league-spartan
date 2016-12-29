@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="627"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="405" y="825" type="line"/>
+      <point x="8" y="227" type="line"/>
+      <point x="8" y="190" type="line"/>
+      <point x="405" y="190" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="190" type="line"/>
+      <point x="615" y="190" type="line"/>
+      <point x="615" y="273" type="line"/>
+      <point x="497" y="273" type="line"/>
+      <point x="497" y="825" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="273" type="line"/>
+      <point x="403" y="673" type="line"/>
+      <point x="405" y="673" type="line"/>
+      <point x="405" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=A+20</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=F-20</string>
+    </dict>
+  </lib>
+</glyph>

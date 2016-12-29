@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="262"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="93" y="513" type="line"/>
+      <point x="180" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="745" type="line"/>
+      <point x="294" y="604" type="line"/>
+      <point x="343" y="662" type="line"/>
+      <point x="136" y="840" type="line"/>
+      <point x="-71" y="662" type="line"/>
+      <point x="-22" y="604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
+</glyph>
