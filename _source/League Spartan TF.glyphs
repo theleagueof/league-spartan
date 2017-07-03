@@ -5,9 +5,9 @@ DisplayStrings = (
 "/quotedblleft Fix, Schwyz!/quotedblright  qu\U00E4kt J\U00FCrgen bl\U00F6d vom Pa\U00DF \012/quotedblleft FIX, SCHWYZ!/quotedblright  QU\U00C4KT J\U00DCRGEN BL\U00D6D VOM PA\U00DF\012\012/quotedblleft Falsches \U00DCben von Xylophonmusik qu\U00E4lt jeden gr\U00F6\U00DFeren Zwerg/quotedblright \012/quotedblleft FALSCHES \U00DCBEN VON XYLOPHONMUSIK QU\U00C4LT JEDEN GR\U00D6\U00DFEREN ZWERG/quotedblright \012T\U00F6rkylempij\U00E4vongahdus\012T\U00D6RKYLEMPIJ\U00C4VONGsAHDUS\012\012Quizdeltagerne spiste jordb\U00E6r med fl\U00F8de, mens cirkusklovnen Walther \012spillede p\U00E5 xylofon. \012\012QUIZDELTAGERNE SPISTE JORDB\U00C6R MED FL\U00D8DE, MENS CIRKUSKLOVNEN WALTHER SPILLEDE P\U00C5 XYLOFON\012\012Nech/tcaron  ji/zcaron  h/rcaron \U00ED/scaron n\U00E9 saxofony /dcaron \U00E1bl/uring  rozezvu/ccaron \U00ED s\U00ED/ncaron  \U00FAd/ecaron sn\U00FDmi t\U00F3ny waltzu \012tanga a quickstepu.\012NECH/Tcaron  JI/Zcaron  H/Rcaron \U00CD/Scaron N\U00C9 SAXOFONY /Dcaron \U00C1BL/Uring  ROZEZVU/Ccaron \U00CD S\U00CD/Ncaron  \U00DAD/Ecaron SN\U00DDMI T\U00D3NY \012WALTZU, TANGA A QUICKSTEPU.\012\012Pchn/aogonek/cacute  w t/eogonek  /lslash \U00F3d/zacute  je/zdotaccent a lub o/sacute m skrzy/nacute  fig. \012PCHN/Aogonek/Cacute  W T/Eogonek  /Lslash \U00D3D/Zacute  JE/Zdotaccent A LUB O/Sacute M SKRZY/Nacute  FIG.\012\012Lu\U00EDs arg\U00FCia \U00E0 J\U00FAlia que /quotedblleft bra\U00E7\U00F5es, f\U00E9, ch\U00E1, \U00F3xido, p\U00F4r, z\U00E2ng\U00E3o/quotedblright  eram \012palavras do portugu\U00EAs. \012\012 LU\U00CDS ARG\U00DCIA \U00C0 J\U00DALIA QUE /quotedblleft BRA\U00C7\U00D5ES, F\U00C9, CH\U00C1, \U00D3XIDO, P\U00D4R, Z\U00C2NG\U00C3O/quotedblright  ERAM PALAVRAS DO PORTUGU\U00CAS. \012\012K/racute de/lcaron  /scaron/tcaron astn\U00FDch /dcaron at/lcaron ov u/ccaron \U00ED pri \U00FAst\U00ED V\U00E1hu m/lacute kveho ko/ncaron a obhr\U00FDza/tcaron  k\U00F4ru a \012/zcaron ra/tcaron  /ccaron erstv\U00E9 m\U00E4so.\012\012K/Racute DE/Lcaron  /Scaron/Tcaron ASTN\U00DDCH OV U/Ccaron \U00CD PI \U00DAST\U00CD V\U00C1HU M/Lacute KVEHO KO/Ncaron A OBHR\U00DDZA/Tcaron  K\U00D4RU A /Zcaron RA/Tcaron  C/Ccaron ERSTV\U00C9 M\U00C4SO.\012DYDYDYDABAYBY\U00C4lcatraz \012\012ALCATRAZ\012COULDN'T CARE LESS/quotedblleft/quoteleft Couldn't./quotedblright/quoteright",
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012Was there a quorum of able whizzkids gravely exciting the jaded fish at ATypl? \012Sixty zippers were quickly picked from the woven jute bag.\012Alfredo just must bring very exciting news to the plaza quickly.\012A large fawn jumped quickly over white zinc boxes.\012Jeb quickly drove a few extra miles on the glazed pavement\012John Quincy Adam grew vexed by talk of puzzles\012The jukebox music puzzled a gentle visitor from a quaint valley town.\012Five big quacking zephyrs jolt my wax bed.\012The beige hue on the waters of the loch impressed all, including the French queen, before she heard that symphony again, just as young Arthur wanted.\012SIXTY ZIPPERS WERE QUICKLY PICKED FROM THE WOVEN JUTE BAG.\012Murky haze enveloped a city as jarring quakes broke fourty-six windows.\012THE BEIGE HUE ON THE WATERS OF THE LOCH IMPRESSED ALL, INCLUDING THE FRENCH QUEEN, BEFORE SHE HEARD THAT SYMPHONY AGAIN, JUST AS YOUNG ARTHUR WANTED.\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH \012ASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSTSUSVSWSQSYSZXSYAYABYCADAEAFAGAHAIAJAKALAMANAOAPAPAQARASATAUAVAWAXAWAYAZA"
 );
-date = "2017-03-14 19:25:40 +0000";
+date = "2017-07-03 17:27:12 +0000";
 disablesNiceNames = 1;
-familyName = "League Spartan TF";
+familyName = "League Spartan";
 featurePrefixes = (
 {
 automatic = 1;
@@ -747,20 +747,20 @@ unicode = 0043;
 },
 {
 glyphname = Cacute;
-lastChange = "2017-03-22 02:03:46 +0000";
+lastChange = "2017-07-03 16:29:03 +0000";
 layers = (
 {
 components = (
 {
-name = acute;
-transform = "{1, 0, 0, 1, 134, 313}";
+name = C;
 },
 {
-name = C;
+name = acute;
+transform = "{1, 0, 0, 1, 134, 313}";
 }
 );
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
-width = 753;
+width = 697;
 },
 {
 components = (
@@ -782,7 +782,7 @@ unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2017-03-21 23:31:46 +0000";
+lastChange = "2017-07-03 16:29:12 +0000";
 layers = (
 {
 components = (
@@ -795,7 +795,7 @@ transform = "{1, 0, 0, 1, 140, 312}";
 }
 );
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
-width = 753;
+width = 697;
 },
 {
 components = (
@@ -817,7 +817,7 @@ unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2017-03-21 23:31:38 +0000";
+lastChange = "2017-07-03 16:29:16 +0000";
 layers = (
 {
 components = (
@@ -830,7 +830,7 @@ transform = "{1, 0, 0, 1, 147, 0}";
 }
 );
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
-width = 753;
+width = 697;
 },
 {
 components = (
@@ -852,7 +852,7 @@ unicode = 00C7;
 },
 {
 glyphname = Cdotaccent;
-lastChange = "2017-03-21 23:53:00 +0000";
+lastChange = "2017-07-03 16:29:19 +0000";
 layers = (
 {
 components = (
@@ -19168,6 +19168,10 @@ weightClass = Bold;
 );
 kerning = {
 "7B60DD57-6012-4D0F-BD38-A72A4BAC0E9D" = {
+"@MMK_L_A" = {
+"@MMK_R_G" = -20;
+"@MMK_R_Y" = -90;
+};
 "@MMK_L_C" = {
 "@MMK_R_v" = -28;
 };
@@ -19747,12 +19751,12 @@ six = 0;
 x = {
 e = -20;
 };
-"@MMK_L_A" = {
-"@MMK_R_Y" = -90;
-"@MMK_R_G" = -20;
-};
 };
 "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8" = {
+"@MMK_L_A" = {
+"@MMK_R_G" = -20;
+"@MMK_R_Y" = -90;
+};
 "@MMK_L_C" = {
 "@MMK_R_v" = -28;
 };
@@ -20327,10 +20331,6 @@ six = 0;
 };
 x = {
 e = -20;
-};
-"@MMK_L_A" = {
-"@MMK_R_Y" = -90;
-"@MMK_R_G" = -20;
 };
 };
 };
