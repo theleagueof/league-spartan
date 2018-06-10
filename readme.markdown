@@ -1,12 +1,12 @@
-![League Spartan](https://d22lct1myh0s5f.cloudfront.net/images/league-spartan-1.jpg)
+![League Spartan Variable](https://github.com/sursly/league-spartan/tree/master/_images/leaguespartan-variable.gif)
 
-League Spartan
+League Spartan Variable
 =============
-_by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.sursly.com)_
+_by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.tylerfinck.com)_
 
-**A new classic, this is a bold, modern, geometric sans-serif that has no problem kicking its enemies in the chest.** 
+**A new classic, this is a modern, geometric sans-serif that has no problem kicking its enemies in the chest.** 
 
-Taking a strong influence from ATF's classic Spartan family, we're starting our own family out with a single strong weight. We've put a few unique touches into a beautiful, historical typeface, and made sure to include an extensive characterset – currently totaling over 300 glyphs. Over time, the open-source license will allow us expand into League Spartan into a full family, with multiple weights and styles, and we're starting by releasing our first Bold style for this exciting, modern classic now.
+Taking a strong influence from ATF's classic Spartan family. We've put a few unique touches into a beautiful, historical typeface, and made sure to include an extensive characterset – currently totaling over 300 glyphs. As of June 2018, it has been converted into a variable font with 5 pre-defined weights. 
 
 - - -
 
