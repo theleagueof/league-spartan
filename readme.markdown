@@ -1,4 +1,4 @@
-![League Spartan Variable](https://raw.githubusercontent.com/sursly/league-spartan/tree/master/_images/leaguespartan-variable.gif)
+![League Spartan Variable](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-variable.gif)
 
 League Spartan Variable
 =============
