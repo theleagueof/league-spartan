@@ -5,6 +5,12 @@ DisplayStrings = (
 "/quotedblleft Fix, Schwyz!/quotedblright  quäkt Jürgen blöd vom Paß \012/quotedblleft FIX, SCHWYZ!/quotedblright  QUÄKT JÜRGEN BLÖD VOM PAß\012\012/quotedblleft Falsches Üben von Xylophonmusik quält jeden größeren Zwerg/quotedblright \012/quotedblleft FALSCHES ÜBEN VON XYLOPHONMUSIK QUÄLT JEDEN GRÖßEREN ZWERG/quotedblright \012Törkylempijävongahdus\012TÖRKYLEMPIJÄVONGsAHDUS\012\012Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther \012spillede på xylofon. \012\012QUIZDELTAGERNE SPISTE JORDBÆR MED FLØDE, MENS CIRKUSKLOVNEN WALTHER SPILLEDE PÅ XYLOFON\012\012Nech/tcaron  ji/zcaron  h/rcaron í/scaron né saxofony /dcaron ábl/uring  rozezvu/ccaron í sí/ncaron  úd/ecaron snými tóny waltzu \012tanga a quickstepu.\012NECH/Tcaron  JI/Zcaron  H/Rcaron Í/Scaron NÉ SAXOFONY /Dcaron ÁBL/Uring  ROZEZVU/Ccaron Í SÍ/Ncaron  ÚD/Ecaron SNÝMI TÓNY \012WALTZU, TANGA A QUICKSTEPU.\012\012Pchn/aogonek/cacute  w t/eogonek  /lslash ód/zacute  je/zdotaccent a lub o/sacute m skrzy/nacute  fig. \012PCHN/Aogonek/Cacute  W T/Eogonek  /Lslash ÓD/Zacute  JE/Zdotaccent A LUB O/Sacute M SKRZY/Nacute  FIG.\012\012Luís argüia à Júlia que /quotedblleft brações, fé, chá, óxido, pôr, zângão/quotedblright  eram \012palavras do português. \012\012 LUÍS ARGÜIA À JÚLIA QUE /quotedblleft BRAÇÕES, FÉ, CHÁ, ÓXIDO, PÔR, ZÂNGÃO/quotedblright  ERAM PALAVRAS DO PORTUGUÊS. \012\012K/racute de/lcaron  /scaron/tcaron astných /dcaron at/lcaron ov u/ccaron í pri ústí Váhu m/lacute kveho ko/ncaron a obhrýza/tcaron  kôru a \012/zcaron ra/tcaron  /ccaron erstvé mäso.\012\012K/Racute DE/Lcaron  /Scaron/Tcaron ASTNÝCH OV U/Ccaron Í PI ÚSTÍ VÁHU M/Lacute KVEHO KO/Ncaron A OBHRÝZA/Tcaron  KÔRU A /Zcaron RA/Tcaron  C/Ccaron ERSTVÉ MÄSO.\012DYDYDYDABAYBYÄlcatraz \012\012ALCATRAZ\012COULDN'T CARE LESS/quotedblleft/quoteleft Couldn't./quotedblright/quoteright",
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012Was there a quorum of able whizzkids gravely exciting the jaded fish at ATypl? \012Sixty zippers were quickly picked from the woven jute bag.\012Alfredo just must bring very exciting news to the plaza quickly.\012A large fawn jumped quickly over white zinc boxes.\012Jeb quickly drove a few extra miles on the glazed pavement\012John Quincy Adam grew vexed by talk of puzzles\012The jukebox music puzzled a gentle visitor from a quaint valley town.\012Five big quacking zephyrs jolt my wax bed.\012The beige hue on the waters of the loch impressed all, including the French queen, before she heard that symphony again, just as young Arthur wanted.\012SIXTY ZIPPERS WERE QUICKLY PICKED FROM THE WOVEN JUTE BAG.\012Murky haze enveloped a city as jarring quakes broke fourty-six windows.\012THE BEIGE HUE ON THE WATERS OF THE LOCH IMPRESSED ALL, INCLUDING THE FRENCH QUEEN, BEFORE SHE HEARD THAT SYMPHONY AGAIN, JUST AS YOUNG ARTHUR WANTED.\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH \012ASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSTSUSVSWSQSYSZXSYAYABYCADAEAFAGAHAIAJAKALAMANAOAPAPAQARASATAUAVAWAXAWAYAZA"
 );
+classes = (
+{
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C C.ss01 Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.ss01 Q.ss02 R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent";
+name = Uppercase;
+}
+);
 customParameters = (
 {
 name = Axes;
@@ -22,7 +28,7 @@ value = 1;
 );
 date = "2018-06-10 12:01:29 +0000";
 disablesNiceNames = 1;
-familyName = "League Spartan";
+familyName = "League Spartan Variable";
 featurePrefixes = (
 {
 automatic = 1;
@@ -85,6 +91,10 @@ name = ss01;
 automatic = 1;
 code = "sub Q by Q.ss02;\012";
 name = ss02;
+},
+{
+code = "sub @Uppercase germandbls' @Uppercase by germandbls.calt;\012sub @Uppercase @Uppercase germandbls' by germandbls.calt;	";
+name = calt;
 }
 );
 fontMaster = (
