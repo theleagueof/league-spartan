@@ -25,3 +25,5 @@ font-weight: 200 900;
 }
 ```
 
+*[Download ZIP](https://github.com/sursly/league-spartan/archive/master.zip)*
+
