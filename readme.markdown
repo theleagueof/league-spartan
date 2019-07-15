@@ -4,14 +4,19 @@ League Spartan Variable
 =============
 _by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.tylerfinck.com)_
 
-**A new classic, this is a modern, geometric sans-serif that has no problem kicking its enemies in the chest.** 
+**The variable fork** 
 
-Taking a strong influence from ATF's classic Spartan family. We've put a few unique touches into a beautiful, historical typeface, and made sure to include an extensive characterset – currently totaling over 300 glyphs. As of June 2018, it has been converted into a variable font with 5 pre-defined weights. 
+This version has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, but it will differ slightly.
 
-- - -
+#How-to
+New to variable fonts? Great, maybe. Desktop applications are slowly adopting this updated TTF format. Currently support is limited to Adobe Illustrator and Adobe Photoshop. Install it like you would any other font.
 
-_In addition, the incredible [Philip von Borries](http://www.vaubee.com) has crafted a beautiful and detailed animated version of League Spartan to accompany the release – partnering with [Animography.net](http://animography.net/products/league-spartan) to expand on it and sell it._
+Web use is a different story completely though. The variable TTF file will work on the web for some browsers but the variable WOFF2 file will provide almost complete support for modern browsers. That one file (lightweight at 24kb!) can serve up all 8 pre-defined styles and whatever else you feel like using. Import the I find that ‘font-variation-settings: “wght” 345;’` renders better than `font-weight: 345;` Here is how you can initially call League Spartan in your css, provided your webfont is in the same directory as your stylesheet:
+```
+@font-face {
+font-family: ‘League Spartan Variable’;
+src: url('LeagueSpartanVariable.woff2') format('woff2-variations'); 
+font-weight: 200 900;
+}
+```
 
-_It's simple and beautiful, and makes some extremely complex, very compelling typographic animations quickly._
-
-_And part of the profits are going right back into supporting The League and making more great stuff, so if you love it, [grab a license today](http://animography.net/products/league-spartan)._
