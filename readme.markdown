@@ -9,7 +9,7 @@ This version has been expanded considerably with multiple weights, from Extralig
 
 I re-drew almost every glyph for better variable rendering. It’s still a work in progress but stable for use.
 
-![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.svg)
+![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
 
 
 #How-to
