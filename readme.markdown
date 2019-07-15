@@ -2,11 +2,15 @@
 
 League Spartan Variable
 =============
-_by [Micah Rich](http://micahrich.com), [Caroline Hadilaksono](http://www.hadilaksono.com), and [Tyler Finck](http://www.tylerfinck.com)_
 
 **The variable fork** 
 
-This version has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, but it will differ slightly.
+This version has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, but it will differ slightly (as in, if you’re spacing is sacred maybe don’t use this version).
+
+I re-drew almost every glyph for better variable rendering. It’s still a work in progress but stable for use.
+
+![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.svg)
+
 
 #How-to
 New to variable fonts? Great, maybe. Desktop applications are slowly adopting this updated TTF format. Currently support is limited to Adobe Illustrator and Adobe Photoshop. Install it like you would any other font.
