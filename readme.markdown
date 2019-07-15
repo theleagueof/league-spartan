@@ -12,7 +12,8 @@ I re-drew almost every glyph for better variable rendering. It’s still a work 
 ![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
 
 
-#How-to
+**How-to**
+
 New to variable fonts? Great, maybe. Desktop applications are slowly adopting this updated TTF format. Currently support is limited to Adobe Illustrator and Adobe Photoshop. Install it like you would any other font.
 
 Web use is a different story completely though. The variable TTF file will work on the web for some browsers but the variable WOFF2 file will provide almost complete support for modern browsers. That one file (lightweight at 24kb!) can serve up all 8 pre-defined styles and whatever else you feel like using. Import the I find that ‘font-variation-settings: “wght” 345;’` renders better than `font-weight: 345;` Here is how you can initially call League Spartan in your css, provided your webfont is in the same directory as your stylesheet:
