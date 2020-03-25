@@ -8,7 +8,7 @@ MAKEFLAGS += --jobs=$(shell nproc) --output-sync=target --silent
 space := $() $()
 
 # Allow overriding each executable we use
-PYTHON ?= python
+PYTHON ?= python3
 FONTV ?= font-v
 
 # Determine font version automatically from repository git tags
