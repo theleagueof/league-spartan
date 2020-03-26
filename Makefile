@@ -22,9 +22,10 @@ PYTHON ?= python3
 FONTV ?= font-v
 
 # Determine font version automatically from repository git tags
-FontVersion ?= $(shell git describe --tags --abbrev=7 | sed 's/-.*//g')
-FontVersionMeta ?= $(shell git describe --tags --abbrev=7 | sed 's/-/\\; r/;s/-/ [/')]
-GitVersion ?= $(shell git describe --tags --abbrev=7)
+FontVersion ?= $(shell git describe --tags --abbrev=6 | sed 's/-.*//g')
+FontVersionMeta ?= $(shell git describe --tags --abbrev=6 --long | sed 's/-[0-9]\+/\\;/;s/-g/[/')]
+GitVersion ?= $(shell git describe --tags --abbrev=6 | sed 's/-/-r/')
+isTagged := $(if $(subst $(FontVersion),,$(GitVersion)),,true)
 
 # Look for what fonts & styles are in this repository that will need building
 FontBase = $(subst $(space),,$(FontName))
@@ -42,6 +43,8 @@ all: fonts
 	echo S: $(FontStyles)
 	echo V: $(FontVersion)
 	echo M: $(FontVersionMeta)
+	echo G: $(GitVersion)
+	echo t: $(isTagged)
 	echo O: $(TARGETS)
 
 .PHONY: fonts
@@ -51,25 +54,43 @@ fonts: otf ttf
 otf: $(addsuffix .otf,$(TARGETS))
 
 .PHONY: ttf
-otf: $(addsuffix .ttf,$(TARGETS))
+ttf: $(addsuffix .ttf,$(TARGETS))
+
+%.ufo: .last-commit
+	cat <<- EOF | $(PYTHON)
+		from defcon import Font, Info
+		ufo = Font('$@')
+		major, minor = "$(FontVersion)".split(".")
+		ufo.info.versionMajor, ufo.info.versionMinor = int(major), int(minor) + 7
+		ufo.save('$@')
+	EOF
 
 %.otf: %.ufo
 	cat <<- EOF | $(PYTHON)
-		from defcon import Font
 		from ufo2ft import compileOTF
+		from defcon import Font
 		ufo = Font('$<')
 		otf = compileOTF(ufo)
 		otf.save('$@')
 	EOF
+	$(normalizeVersion)
 
 %.ttf: %.ufo
 	cat <<- EOF | $(PYTHON)
-		from defcon import Font
 		from ufo2ft import compileTTF
+		from defcon import Font
 		ufo = Font('$<')
-		otf = compileTTF(ufo)
-		otf.save('$@')
+		ttf = compileTTF(ufo)
+		ttf.save('$@')
 	EOF
+	$(normalizeVersion)
+
+.PHONY: .last-commit
+.last-commit:;
+	git update-index --refresh --ignore-submodules ||:
+	git diff-index --quiet --cached HEAD
+	ts=$$(git log -n1 --pretty=format:%cI HEAD)
+	touch -d "$$ts" -- $@
 
 DISTDIR = $(FontBase)-$(GitVersion)
 
@@ -97,6 +118,10 @@ $(DISTDIR).tar.bz2: install-dist
 install-local: install-dist
 	install -Dm755 -t "$${HOME}/.local/share/fonts/OTF/" $(DISTDIR)/OTF/*.otf
 	install -Dm755 -t "$${HOME}/.local/share/fonts/TTF/" $(DISTDIR)/TTF/*.ttf
+
+define normalizeVersion =
+	font-v write --ver=$(FontVersion) $(if $(isTagged),--rel,--dev --sha1) $@
+endef
 
 # Empty recipie to suppres makefile regeneration
 $(MAKEFILE_LIST):;
