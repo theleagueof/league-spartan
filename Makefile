@@ -22,8 +22,9 @@ PYTHON ?= python3
 FONTV ?= font-v
 
 # Determine font version automatically from repository git tags
-FontVersion ?= $(shell git describe --tags | sed 's/-.*//g')
-FontVersionMeta ?= $(shell git describe --tags | sed 's/-/\\; r/;s/-/ [/')]
+FontVersion ?= $(shell git describe --tags --abbrev=7 | sed 's/-.*//g')
+FontVersionMeta ?= $(shell git describe --tags --abbrev=7 | sed 's/-/\\; r/;s/-/ [/')]
+GitVersion ?= $(shell git describe --tags --abbrev=7)
 
 # Look for what fonts & styles are in this repository that will need building
 FontBase = $(subst $(space),,$(FontName))
@@ -69,6 +70,29 @@ otf: $(addsuffix .ttf,$(TARGETS))
 		otf = compileTTF(ufo)
 		otf.save('$@')
 	EOF
+
+DISTDIR = $(FontBase)-$(GitVersion)
+
+$(DISTDIR):
+	mkdir -p $@
+
+.PHONY: dist
+dist: $(DISTDIR).zip $(DISTDIR).tar.bz2
+
+.PHONY: install-dist
+install-dist: all $(DISTDIR)
+	install -Dm644 -t "$(DISTDIR)/OTF/" *.otf
+	install -Dm644 -t "$(DISTDIR)/TTF/" *.ttf
+
+$(DISTDIR).zip: install-dist
+	zip -r $@ $(DISTDIR)
+
+$(DISTDIR).tar.bz2: install-dist
+	tar cvfj $@ $(DISTDIR)
+
+install-local: install-dist
+	install -Dm755 -t "$${HOME}/.local/share/fonts/OTF/" $(DISTDIR)/OTF/*.otf
+	install -Dm755 -t "$${HOME}/.local/share/fonts/TTF/" $(DISTDIR)/TTF/*.ttf
 
 # Empty recipie to suppres makefile regeneration
 $(MAKEFILE_LIST):;
