@@ -76,6 +76,10 @@ DISTDIR = $(FontBase)-$(GitVersion)
 $(DISTDIR):
 	mkdir -p $@
 
+.PHONY: clean
+clean:
+	git clean -dxf
+
 .PHONY: dist
 dist: $(DISTDIR).zip $(DISTDIR).tar.bz2
 
