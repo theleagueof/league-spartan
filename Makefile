@@ -1,8 +1,18 @@
 FontName = League Spartan
 
 # Defalut to running jobs in parallel, one for each CPU core
+MAKEFLAGS += --jobs=$(shell nproc) --output-sync=target
 # Default to not echoing commands before running
-MAKEFLAGS += --jobs=$(shell nproc) --output-sync=target --silent
+MAKEFLAGS += --silent
+# Disable as much built in file type builds as possible
+MAKEFLAGS += --no-builtin-rules
+.SUFFIXES:
+
+# Run recipies in zsh, and all in one pass
+SHELL := zsh
+.SHELLFLAGS := +o nomatch -e -c
+.ONESHELL:
+.SECONDEXPANSION:
 
 # Some Makefile shinanigans to avoid aggressive trimming
 space := $() $()
@@ -43,10 +53,22 @@ otf: $(addsuffix .otf,$(TARGETS))
 otf: $(addsuffix .ttf,$(TARGETS))
 
 %.otf: %.ufo
-	echo ufo2otf $^ -o $@
+	cat <<- EOF | $(PYTHON)
+		from defcon import Font
+		from ufo2ft import compileOTF
+		ufo = Font('$<')
+		otf = compileOTF(ufo)
+		otf.save('$@')
+	EOF
 
 %.ttf: %.ufo
-	echo ufo2ttf $^ -o $@
+	cat <<- EOF | $(PYTHON)
+		from defcon import Font
+		from ufo2ft import compileTTF
+		ufo = Font('$<')
+		otf = compileTTF(ufo)
+		otf.save('$@')
+	EOF
 
 # Empty recipie to suppres makefile regeneration
 $(MAKEFILE_LIST):;
