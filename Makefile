@@ -47,6 +47,12 @@ all: fonts
 	echo t: $(isTagged)
 	echo O: $(TARGETS)
 
+.PHONY: glyphs
+glyphs: $(addsuffix .glyphs,$(TARGETS))
+
+.PHONY: fontforge
+fontforge: $(addsuffix .sfd,$(TARGETS))
+
 .PHONY: fonts
 fonts: otf ttf
 
@@ -55,6 +61,18 @@ otf: $(addsuffix .otf,$(TARGETS))
 
 .PHONY: ttf
 ttf: $(addsuffix .ttf,$(TARGETS))
+
+%.glyphs: %.ufo
+	fontmake -u $< -o glyphs
+
+%.designspace: %.glyphs
+	echo MM $@
+
+%.sfd: %.ufo
+	echo SDF: $@
+
+# %.ufo: %.glyphs
+#     fontmake -g $< -o ufo
 
 %.ufo: .last-commit
 	cat <<- EOF | $(PYTHON)
