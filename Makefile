@@ -86,9 +86,9 @@ ttf: $(addsuffix .ttf,$(TARGETS))
 	$(normalizeVersion)
 
 .PHONY: .last-commit
-.last-commit:;
+.last-commit:
 	git update-index --refresh --ignore-submodules ||:
-	git diff-index --quiet --cached HEAD
+	git diff-index --quiet --cached HEAD -- *.ufo
 	ts=$$(git log -n1 --pretty=format:%cI HEAD)
 	touch -d "$$ts" -- $@
 
