@@ -1,72 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>750</integer>
-	<key>capHeight</key>
-	<integer>825</integer>
-	<key>copyright</key>
-	<string></string>
-	<key>descender</key>
-	<integer>-250</integer>
-	<key>familyName</key>
-	<string>League Spartan Bold</string>
-	<key>fontStyle</key>
-	<integer>64</integer>
-	<key>italicAngle</key>
-	<real>0.0</real>
-	<key>openTypeHeadCreated</key>
-	<string>2011/04/19 19:50:07</string>
-	<key>openTypeNameDesigner</key>
-	<string></string>
-	<key>openTypeNameDesignerURL</key>
-	<string></string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>League Spartan</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
-	<key>openTypeNamemanufacturer</key>
-	<string></string>
-	<key>openTypeNamemanufacturerURL</key>
-	<string></string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		</array>
-	<key>postscriptFontName</key>
-	<string>LeagueSpartan-Bold</string>
-	<key>postscriptFullName</key>
-	<string>League Spartan Bold</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-		</array>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
-	<key>postscriptWidthName</key>
-	<string>Medium (normal)</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>1</integer>
-	<key>weight</key>
-	<string>Bold</string>
-	<key>weightValue</key>
-	<real>700</real>
-	<key>widthName</key>
-	<string>Medium (normal)</string>
-	<key>widthValue</key>
-	<real>5</real>
-	<key>xHeight</key>
-	<integer>513</integer>
-</dict>
+  <dict>
+    <key>ascender</key>
+    <integer>900</integer>
+    <key>capHeight</key>
+    <integer>825</integer>
+    <key>descender</key>
+    <integer>-350</integer>
+    <key>familyName</key>
+    <string>League Spartan</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2014/09/22 02:04:12</string>
+    <key>openTypeNameManufacturer</key>
+    <string>The League of Moveable Type</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.theleagueofmoveabletype.com</string>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>750</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-15</integer>
+      <integer>0</integer>
+      <integer>513</integer>
+      <integer>529</integer>
+      <integer>750</integer>
+      <integer>765</integer>
+      <integer>825</integer>
+      <integer>841</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-265</integer>
+      <integer>-250</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>188</integer>
+      <integer>177</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>860</integer>
+      <integer>825</integer>
+      <integer>513</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>League Spartan</string>
+    <key>styleMapStyleName</key>
+    <string>bold</string>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>513</integer>
+  </dict>
 </plist>

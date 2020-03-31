@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
   <advance width="395"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="16" y="513" type="line"/>
       <point x="16" y="378" type="line"/>
       <point x="90" y="378" type="line"/>
       <point x="90" y="181" type="line" smooth="yes"/>
@@ -27,13 +28,6 @@
       <point x="267" y="704" type="line"/>
       <point x="90" y="704" type="line"/>
       <point x="90" y="513" type="line"/>
-      <point x="16" y="513" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="257" type="move" name="center"/>
     </contour>
   </outline>
 </glyph>

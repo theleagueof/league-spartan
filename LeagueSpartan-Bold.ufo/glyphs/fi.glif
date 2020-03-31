@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fi" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
   <advance width="672"/>
   <unicode hex="FB01"/>
   <outline>
     <contour>
+      <point x="612" y="0" type="line"/>
       <point x="612" y="513" type="line"/>
       <point x="267" y="513" type="line"/>
       <point x="267" y="617" type="line" smooth="yes"/>
@@ -29,7 +30,6 @@
       <point x="267" y="378" type="line"/>
       <point x="435" y="378" type="line"/>
       <point x="435" y="0" type="line"/>
-      <point x="612" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

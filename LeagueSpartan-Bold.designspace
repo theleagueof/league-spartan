@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="700" maximum="700" default="700"/>
+  </axes>
+  <sources>
+    <source filename="LeagueSpartan-Bold.ufo" name="League Spartan Bold" familyname="League Spartan" stylename="Bold">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="League Spartan Bold" familyname="League Spartan" stylename="Bold" filename="../instance_ufo/LeagueSpartan-Bold.ufo" stylemapfamilyname="League Spartan Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>11129102-10BF-42F5-85C9-4B8C6F3371E5</key>
+        <dict/>
+        <key>816D7807-8D5C-417C-A12E-356AD2D40519</key>
+        <dict/>
+        <key>A4E552E4-62BE-43BB-A58F-34F0EE3B77B8</key>
+        <dict/>
+        <key>BB01D449-21CA-4B3B-A227-A9EDE66DA416</key>
+        <dict>
+          <key>nV</key>
+          <integer>14</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

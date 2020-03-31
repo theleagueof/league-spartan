@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="braceleft" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
   <advance width="446"/>
   <unicode hex="007B"/>
   <outline>
     <contour>
+      <point x="60" y="347" type="curve"/>
       <point x="60" y="253" type="line"/>
       <point x="103" y="253"/>
       <point x="130" y="234"/>
@@ -38,7 +39,6 @@
       <point x="130" y="412" type="line" smooth="yes"/>
       <point x="130" y="366"/>
       <point x="103" y="347"/>
-      <point x="60" y="347" type="curve"/>
     </contour>
   </outline>
 </glyph>

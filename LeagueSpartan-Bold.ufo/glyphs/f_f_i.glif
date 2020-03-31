@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_f_i" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
   <advance width="1047"/>
+  <unicode hex="FB03"/>
   <outline>
     <contour>
+      <point x="987" y="0" type="line"/>
       <point x="987" y="513" type="line"/>
       <point x="642" y="513" type="line"/>
       <point x="642" y="617" type="line" smooth="yes"/>
@@ -48,7 +50,6 @@
       <point x="642" y="378" type="line"/>
       <point x="810" y="378" type="line"/>
       <point x="810" y="0" type="line"/>
-      <point x="987" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

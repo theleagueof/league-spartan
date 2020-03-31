@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
   <advance width="749"/>
   <unicode hex="00A3"/>
   <outline>
     <contour>
+      <point x="55" y="387" type="line"/>
       <point x="55" y="289" type="line"/>
       <point x="205" y="289" type="line"/>
       <point x="212" y="272"/>
@@ -60,7 +61,6 @@
       <point x="105" y="483"/>
       <point x="129" y="431"/>
       <point x="157" y="387" type="curve"/>
-      <point x="55" y="387" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="paragraph" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
   <advance width="708"/>
   <unicode hex="00B6"/>
   <outline>
     <contour>
+      <point x="648" y="0" type="line"/>
       <point x="648" y="825" type="line"/>
       <point x="285" y="825" type="line" smooth="yes"/>
       <point x="124" y="825"/>
@@ -18,7 +19,6 @@
       <point x="484" y="721" type="line"/>
       <point x="545" y="721" type="line"/>
       <point x="545" y="0" type="line"/>
-      <point x="648" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_j" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_j" format="2">
   <advance width="672"/>
   <outline>
     <contour>
+      <point x="612" y="-79" type="curve" smooth="yes"/>
       <point x="612" y="513" type="line"/>
       <point x="267" y="513" type="line"/>
       <point x="267" y="617" type="line" smooth="yes"/>
@@ -40,7 +41,6 @@
       <point x="427" y="-275" type="curve" smooth="yes"/>
       <point x="568" y="-275"/>
       <point x="612" y="-170"/>
-      <point x="612" y="-79" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

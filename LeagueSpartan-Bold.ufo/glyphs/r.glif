@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="r" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
   <advance width="498"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="237" y="200" type="line"/>
+      <point x="237" y="0" type="line"/>
       <point x="237" y="270" type="line" smooth="yes"/>
       <point x="237" y="283"/>
       <point x="250" y="374"/>
@@ -23,13 +23,6 @@
       <point x="237" y="513" type="line"/>
       <point x="60" y="513" type="line"/>
       <point x="60" y="0" type="line"/>
-      <point x="237" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="249" y="513" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

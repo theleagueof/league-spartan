@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ydieresis" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
   <advance width="633"/>
   <unicode hex="00FF"/>
   <outline>
     <contour>
+      <point x="327" y="250" type="line"/>
       <point x="184" y="513" type="line"/>
       <point x="-20" y="513" type="line"/>
       <point x="223" y="80" type="line"/>
       <point x="46" y="-260" type="line"/>
       <point x="250" y="-260" type="line"/>
-      <point x="384" y="0" type="line"/>
-      <point x="385" y="0" type="line"/>
       <point x="653" y="513" type="line"/>
       <point x="449" y="513" type="line"/>
-      <point x="327" y="250" type="line"/>
     </contour>
     <contour>
+      <point x="198" y="791" type="curve" smooth="yes"/>
       <point x="147" y="791"/>
       <point x="106" y="750"/>
       <point x="106" y="699" type="curve" smooth="yes"/>
@@ -27,9 +26,9 @@
       <point x="290" y="699" type="curve" smooth="yes"/>
       <point x="290" y="750"/>
       <point x="249" y="791"/>
-      <point x="198" y="791" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="435" y="791" type="curve" smooth="yes"/>
       <point x="384" y="791"/>
       <point x="343" y="750"/>
       <point x="343" y="699" type="curve" smooth="yes"/>
@@ -41,7 +40,6 @@
       <point x="527" y="699" type="curve" smooth="yes"/>
       <point x="527" y="750"/>
       <point x="486" y="791"/>
-      <point x="435" y="791" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uogonek" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
   <advance width="656"/>
   <unicode hex="0173"/>
   <outline>
     <contour>
+      <point x="221" y="-158" type="curve" smooth="yes"/>
       <point x="221" y="-245"/>
       <point x="295" y="-275"/>
       <point x="347" y="-275" type="curve" smooth="yes"/>
@@ -40,7 +41,6 @@
       <point x="290" y="-14" type="curve"/>
       <point x="259" y="-51"/>
       <point x="221" y="-108"/>
-      <point x="221" y="-158" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

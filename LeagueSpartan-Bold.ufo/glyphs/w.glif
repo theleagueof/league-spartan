@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
   <advance width="986"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
+      <point x="493" y="265" type="line"/>
       <point x="611" y="0" type="line"/>
       <point x="731" y="0" type="line"/>
       <point x="1006" y="513" type="line"/>
@@ -16,10 +17,6 @@
       <point x="-20" y="513" type="line"/>
       <point x="255" y="0" type="line"/>
       <point x="375" y="0" type="line"/>
-      <point x="493" y="265" type="line"/>
-    </contour>
-    <contour>
-      <point x="493" y="513" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

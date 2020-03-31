@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="n" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
   <advance width="661"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
+      <point x="237" y="0" type="line"/>
       <point x="237" y="290" type="line" smooth="yes"/>
       <point x="237" y="341"/>
       <point x="289" y="390"/>
@@ -24,13 +25,6 @@
       <point x="237" y="513" type="line"/>
       <point x="60" y="513" type="line"/>
       <point x="60" y="0" type="line"/>
-      <point x="237" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="331" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="331" y="513" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>
