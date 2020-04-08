@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>900</integer>
+	<key>capHeight</key>
+	<integer>825</integer>
+	<key>descender</key>
+	<integer>-350</integer>
+	<key>familyName</key>
+	<string>League Spartan</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/09/21 22:04:12</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>513</integer>
+		<integer>529</integer>
+		<integer>750</integer>
+		<integer>765</integer>
+		<integer>825</integer>
+		<integer>841</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>LeagueSpartan-Bold</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-265</integer>
+		<integer>-250</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>188</integer>
+		<integer>177</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>860</integer>
+		<integer>825</integer>
+		<integer>513</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>League Spartan</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>513</integer>
+</dict>
+</plist>

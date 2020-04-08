@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="2">
+	<advance width="656"/>
+	<unicode hex="0173"/>
+	<outline>
+		<contour>
+			<point x="221" y="-158" type="curve"/>
+			<point x="221" y="-158" type="line"/>
+			<point x="221" y="-245"/>
+			<point x="295" y="-275"/>
+			<point x="347" y="-275" type="curve"/>
+			<point x="439" y="-275"/>
+			<point x="484" y="-203"/>
+			<point x="484" y="-203" type="curve"/>
+			<point x="412" y="-149" type="line"/>
+			<point x="412" y="-149"/>
+			<point x="392" y="-179"/>
+			<point x="361" y="-179" type="curve"/>
+			<point x="344" y="-179"/>
+			<point x="324" y="-165"/>
+			<point x="324" y="-140" type="curve"/>
+			<point x="324" y="-89"/>
+			<point x="355" y="-38"/>
+			<point x="372" y="-14" type="curve"/>
+			<point x="533" y="-3"/>
+			<point x="606" y="68"/>
+			<point x="606" y="226" type="curve"/>
+			<point x="606" y="513" type="line"/>
+			<point x="429" y="513" type="line"/>
+			<point x="429" y="269" type="line" smooth="yes"/>
+			<point x="429" y="168"/>
+			<point x="402" y="129"/>
+			<point x="328" y="129" type="curve"/>
+			<point x="254" y="129"/>
+			<point x="227" y="168"/>
+			<point x="227" y="269" type="curve"/>
+			<point x="227" y="513" type="line"/>
+			<point x="50" y="513" type="line"/>
+			<point x="50" y="226" type="line" smooth="yes"/>
+			<point x="50" y="66"/>
+			<point x="124" y="-5"/>
+			<point x="290" y="-14" type="curve"/>
+			<point x="259" y="-51"/>
+			<point x="221" y="-108"/>
+		</contour>
+	</outline>
+</glyph>

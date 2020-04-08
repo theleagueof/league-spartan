@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+	<advance width="656"/>
+	<unicode hex="00FC"/>
+	<outline>
+		<contour>
+			<point x="50" y="513" type="line"/>
+			<point x="227" y="513" type="line"/>
+			<point x="227" y="269" type="line" smooth="yes"/>
+			<point x="227" y="168"/>
+			<point x="254" y="129"/>
+			<point x="328" y="129" type="curve"/>
+			<point x="402" y="129"/>
+			<point x="429" y="168"/>
+			<point x="429" y="269" type="curve"/>
+			<point x="429" y="513" type="line"/>
+			<point x="606" y="513" type="line"/>
+			<point x="606" y="226" type="line" smooth="yes"/>
+			<point x="606" y="54"/>
+			<point x="520" y="-15"/>
+			<point x="328" y="-15" type="curve"/>
+			<point x="136" y="-15"/>
+			<point x="50" y="54"/>
+			<point x="50" y="226" type="curve"/>
+		</contour>
+		<contour>
+			<point x="209" y="791" type="curve"/>
+			<point x="209" y="791" type="line"/>
+			<point x="158" y="791"/>
+			<point x="117" y="750"/>
+			<point x="117" y="699" type="curve"/>
+			<point x="117" y="648"/>
+			<point x="158" y="607"/>
+			<point x="209" y="607" type="curve"/>
+			<point x="260" y="607"/>
+			<point x="301" y="648"/>
+			<point x="301" y="699" type="curve"/>
+			<point x="301" y="750"/>
+			<point x="260" y="791"/>
+		</contour>
+		<contour>
+			<point x="446" y="791" type="curve"/>
+			<point x="446" y="791" type="line"/>
+			<point x="395" y="791"/>
+			<point x="354" y="750"/>
+			<point x="354" y="699" type="curve"/>
+			<point x="354" y="648"/>
+			<point x="395" y="607"/>
+			<point x="446" y="607" type="curve"/>
+			<point x="497" y="607"/>
+			<point x="538" y="648"/>
+			<point x="538" y="699" type="curve"/>
+			<point x="538" y="750"/>
+			<point x="497" y="791"/>
+		</contour>
+	</outline>
+</glyph>

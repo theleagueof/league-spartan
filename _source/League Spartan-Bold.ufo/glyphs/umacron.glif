@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="2">
+	<advance width="656"/>
+	<unicode hex="016B"/>
+	<outline>
+		<contour>
+			<point x="50" y="513" type="line"/>
+			<point x="227" y="513" type="line"/>
+			<point x="227" y="269" type="line" smooth="yes"/>
+			<point x="227" y="168"/>
+			<point x="254" y="129"/>
+			<point x="328" y="129" type="curve"/>
+			<point x="402" y="129"/>
+			<point x="429" y="168"/>
+			<point x="429" y="269" type="curve"/>
+			<point x="429" y="513" type="line"/>
+			<point x="606" y="513" type="line"/>
+			<point x="606" y="226" type="line" smooth="yes"/>
+			<point x="606" y="54"/>
+			<point x="520" y="-15"/>
+			<point x="328" y="-15" type="curve"/>
+			<point x="136" y="-15"/>
+			<point x="50" y="54"/>
+			<point x="50" y="226" type="curve"/>
+		</contour>
+		<contour>
+			<point x="124" y="754" type="line"/>
+			<point x="124" y="634" type="line"/>
+			<point x="532" y="634" type="line"/>
+			<point x="532" y="754" type="line"/>
+		</contour>
+	</outline>
+</glyph>
