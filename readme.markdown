@@ -3,11 +3,7 @@
 League Spartan Variable
 =============
 
-**The variable fork**
-
-This version has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, but it will differ slightly (as in, if you’re spacing is sacred maybe don’t use this version).
-
-I re-drew almost every glyph for better variable rendering.
+Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive efforts, this version of **League Spartan** has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, redrawn for better variable rendering. But take note — it will differ slightly from the first version (particularly in spacing).
 
 ![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
 
@@ -34,5 +30,3 @@ font-weight: 200 900;
 **Questions/suggestions**
 
 Hit me up on on [Twitter](https://www.twitter.com/typeler) or make an issue here on Github.
-
-## [Download ZIP](https://github.com/sursly/league-spartan/archive/master.zip)
