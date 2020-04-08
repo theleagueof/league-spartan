@@ -29,4 +29,4 @@ font-weight: 200 900;
 
 **Questions/suggestions**
 
-Hit me up on on [Twitter](https://www.twitter.com/typeler) or make an issue here on Github.
+Hit Tyler up on on [Twitter](https://www.twitter.com/typeler), tag [@theleagueof](https://www.twitter.com/theleagueof), or make an issue here on Github.
