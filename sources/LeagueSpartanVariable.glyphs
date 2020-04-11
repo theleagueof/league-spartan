@@ -35,7 +35,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-07-14 14:30:25 +0000";
+date = "2020-04-11 19:59:32 +0000";
 disablesNiceNames = 1;
 familyName = "League Spartan";
 featurePrefixes = (
@@ -31037,5 +31037,5 @@ nV = 14;
 };
 };
 versionMajor = 2;
-versionMinor = 200;
+versionMinor = 100;
 }
