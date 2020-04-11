@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+	<advance width="822"/>
+	<unicode hex="20AC"/>
+	<outline>
+		<contour>
+			<point x="627" y="558" type="line"/>
+			<point x="5" y="558" type="line"/>
+			<point x="5" y="432" type="line"/>
+			<point x="627" y="432" type="line"/>
+		</contour>
+		<contour>
+			<point x="627" y="391" type="line"/>
+			<point x="5" y="391" type="line"/>
+			<point x="5" y="265" type="line"/>
+			<point x="627" y="265" type="line"/>
+		</contour>
+		<component base="C.ss01" xOffset="36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>C.ss01</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

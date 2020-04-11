@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+	<advance width="1102"/>
+	<unicode hex="00C6"/>
+	<outline>
+		<contour>
+			<point x="665" y="825" type="line"/>
+			<point x="415" y="825" type="line"/>
+			<point x="-21" y="0" type="line"/>
+			<point x="242" y="0" type="line"/>
+			<point x="313" y="143" type="line"/>
+			<point x="611" y="143" type="line"/>
+		</contour>
+		<contour>
+			<point x="501" y="323" type="line"/>
+			<point x="403" y="323" type="line"/>
+			<point x="499" y="501" type="line"/>
+			<point x="501" y="501" type="line"/>
+		</contour>
+		<component base="E" xOffset="448"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>E</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

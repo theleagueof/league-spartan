@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+	<advance width="549"/>
+	<unicode hex="2021"/>
+	<outline>
+		<component base="bar" xOffset="117"/>
+		<component base="endash" xScale="0.749" xOffset="56" yOffset="13"/>
+		<component base="endash" xScale="0.749" xOffset="60" yOffset="289"/>
+	</outline>
+</glyph>
