@@ -7,10 +7,10 @@ cd sources
 
 echo "Generating Static fonts"
 mkdir -p ../fonts/static/ttf
-fontmake -g LeagueSpartanVariable.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
+fontmake --timing --verbose ERROR -g LeagueSpartanVariable.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
 
 mkdir -p ../fonts/static/otf
-fontmake -g LeagueSpartanVariable.glyphs -i -o otf --output-dir ../fonts/static/otf/
+fontmake --timing --verbose ERROR -g LeagueSpartanVariable.glyphs -i -o otf --output-dir ../fonts/static/otf/
 
 
 
@@ -78,7 +78,7 @@ cd sources
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
-fontmake -g LeagueSpartanVariable.glyphs -o variable --output-path ../fonts/variable/LeagueSpartanVariable.ttf
+fontmake --timing --verbose ERROR --autohint -g LeagueSpartanVariable.glyphs -o variable --output-path ../fonts/variable/LeagueSpartanVariable.ttf
 
 rm -rf master_ufo/ instance_ufo/
 
