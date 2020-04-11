@@ -1,5 +1,5 @@
 {
-.appVersion = "1312";
+.appVersion = "1313";
 DisplayStrings = (
 "THE/space QUICK/space BROWN/space FOX/space JUMPS/space \012OVER/space THE/space LAZY/space DOG\012\012AMAZINGLY/space FEW/space DISCOTHEQUES/space \012PROVIDE/space JUKEBOXES\012\012the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog!\012/space \012League/space Spartan\012Amazingly/space few/space discotheques\012provide/space jukeboxes\012\012Allison/space Usavage\012Instagram\012Facebook\012SNAPCHAT\0120123456789",
 "/quotedblleft Fix,/space Schwyz!/quotedblright/space quäkt/space Jürgen/space blöd/space vom/space Paß/space \012/quotedblleft FIX,/space SCHWYZ!/quotedblright/space QUÄKT/space JÜRGEN/space BLÖD/space VOM/space PAß\012\012/quotedblleft Falsches/space Üben/space von/space Xylophonmusik/space quält/space jeden/space größeren/space Zwerg/quotedblright \012/quotedblleft FALSCHES/space ÜBEN/space VON/space XYLOPHONMUSIK/space QUÄLT/space JEDEN/space GRÖßEREN/space ZWERG/quotedblright \012Törkylempijävongahdus\012TÖRKYLEMPIJÄVONGsAHDUS\012\012Quizdeltagerne/space spiste/space jordbær/space med/space fløde,/space mens/space cirkusklovnen/space Walther/space \012spillede/space på/space xylofon./space \012\012QUIZDELTAGERNE/space SPISTE/space JORDBÆR/space MED/space FLØDE,/space MENS/space CIRKUSKLOVNEN/space WALTHER/space SPILLEDE/space PÅ/space XYLOFON\012\012Nech/tcaron/space ji/zcaron/space h/rcaron í/scaron né/space saxofony/space/dcaron ábl/uring/space rozezvu/ccaron í/space sí/ncaron/space úd/ecaron snými/space tóny/space waltzu/space \012tanga/space a/space quickstepu.\012NECH/Tcaron/space JI/Zcaron/space H/Rcaron Í/Scaron NÉ/space SAXOFONY/space/Dcaron ÁBL/Uring/space ROZEZVU/Ccaron Í/space SÍ/Ncaron/space ÚD/Ecaron SNÝMI/space TÓNY/space \012WALTZU,/space TANGA/space A/space QUICKSTEPU.\012\012Pchn/aogonek/cacute/space w/space t/eogonek/space/lslash ód/zacute/space je/zdotaccent a/space lub/space o/sacute m/space skrzy/nacute/space fig./space \012PCHN/Aogonek/Cacute/space W/space T/Eogonek/space/Lslash ÓD/Zacute/space JE/Zdotaccent A/space LUB/space O/Sacute M/space SKRZY/Nacute/space FIG.\012\012Luís/space argüia/space à/space Júlia/space que/space/quotedblleft bra¸ções,/space fé,/space chá,/space óxido,/space pôr,/space zângão/quotedblright/space eram/space \012palavras/space do/space português./space \012\012LUÍS/space ARGÜIA/space À/space JÚLIA/space QUE/space/quotedblleft BRAÇÕES,/space FÉ,/space CHÁ,/space ÓXIDO,/space PÔR,/space ZÂNGÃO/quotedblright/space ERAM/space PALAVRAS/space DO/space PORTUGUÊS./space \012\012K/racute de/lcaron/space/scaron/tcaron astných/space/dcaron at/lcaron ov/space u/ccaron í/space pri/space ústí/space Váhu/space m/lacute kveho/space ko/ncaron a/space obhrýza/tcaron/space kôru/space a/space \012/zcaron ra/tcaron/space/ccaron erstvé/space mäso.\012\012K/Racute DE/Lcaron/space/Scaron/Tcaron ASTNÝCH/space OV/space U/Ccaron Í/space PI/space ÚSTÍ/space VÁHU/space M/Lacute KVEHO/space KO/Ncaron A/space OBHRÝZA/Tcaron/space KOÔRU/space A/space/Zcaron RA/Tcaron/space C/Ccaron ERSTVÉ/space MÄSO.V\012DYDYDYDABAYBYÄlcatraz/space \012\012ALCATRAZ\012COULDN'T/space CARE/space LESS/quotedblleft/quoteleft Couldn't./quotedblright/quoteright \012TH",
@@ -12982,7 +12982,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2019-07-15 14:23:59 +0000";
+lastChange = "2020-04-11 19:30:39 +0000";
 layers = (
 {
 anchors = (
@@ -13047,22 +13047,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"439 -274 OFFCURVE",
-"546 -183 OFFCURVE",
-"546 -15 CURVE SMOOTH",
-"546 9 LINE",
-"507 9 LINE",
-"507 -11 LINE SMOOTH",
-"507 -129 OFFCURVE",
-"439 -233 OFFCURVE",
-"307 -233 CURVE SMOOTH",
-"175 -233 OFFCURVE",
-"135 -179 OFFCURVE",
-"115 -147 CURVE",
-"77 -175 LINE",
-"106 -222 OFFCURVE",
-"175 -274 OFFCURVE",
-"307 -274 CURVE SMOOTH"
+"433 -274 OFFCURVE",
+"540 -183 OFFCURVE",
+"540 -15 CURVE SMOOTH",
+"540 9 LINE",
+"501 9 LINE",
+"501 -11 LINE SMOOTH",
+"501 -129 OFFCURVE",
+"433 -233 OFFCURVE",
+"301 -233 CURVE SMOOTH",
+"169 -233 OFFCURVE",
+"129 -179 OFFCURVE",
+"109 -147 CURVE",
+"71 -175 LINE",
+"100 -222 OFFCURVE",
+"169 -274 OFFCURVE",
+"301 -274 CURVE SMOOTH"
 );
 }
 );
@@ -29953,8 +29953,8 @@ kerning = {
 "@MMK_R_A" = -30;
 };
 "@MMK_L_F" = {
-"@MMK_R_period" = -120;
 "@MMK_R_o" = -50;
+"@MMK_R_period" = -120;
 };
 "@MMK_L_Icircumflex" = {
 "@MMK_R_c" = -2;
@@ -30458,8 +30458,8 @@ e = -20;
 "@MMK_R_A" = -20;
 };
 "@MMK_L_F" = {
-"@MMK_R_period" = -120;
 "@MMK_R_o" = -35;
+"@MMK_R_period" = -120;
 };
 "@MMK_L_Icircumflex" = {
 "@MMK_R_c" = -2;
