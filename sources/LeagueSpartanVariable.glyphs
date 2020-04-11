@@ -29852,16 +29852,6 @@ rightKerningGroup = d;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 320;
-}
-);
 interpolationWeight = 200;
 instanceInterpolations = {
 "9D4C2422-5CE9-4C2E-AAC7-BF869A02F5C8" = 1;
@@ -29870,16 +29860,6 @@ name = Extralight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 480;
-}
-);
 interpolationWeight = 277;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29890,16 +29870,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 640;
-}
-);
 interpolationWeight = 380;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29909,16 +29879,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 640;
-}
-);
 interpolationWeight = 500;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29929,16 +29889,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 960;
-}
-);
 interpolationWeight = 600;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29949,16 +29899,6 @@ name = Semibold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 1120;
-}
-);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29971,16 +29911,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 1280;
-}
-);
 interpolationWeight = 800;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -29991,16 +29921,6 @@ name = Extrabold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = "1000";
-},
-{
-name = weightClass;
-value = 1440;
-}
-);
 interpolationWeight = 900;
 interpolationWidth = 5;
 instanceInterpolations = {
