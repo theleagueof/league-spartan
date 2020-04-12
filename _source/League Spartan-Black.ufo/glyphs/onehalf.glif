@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+	<advance width="1552"/>
+	<unicode hex="00BD"/>
+	<outline>
+		<component base="fraction" xOffset="454"/>
+		<component base="two" xScale="0.5858" yScale="0.5858" xOffset="846" yOffset="-5"/>
+		<component base="one" xScale="0.586" yScale="0.586" xOffset="58" yOffset="550"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

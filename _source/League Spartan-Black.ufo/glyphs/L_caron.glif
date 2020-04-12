@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+	<advance width="1024"/>
+	<unicode hex="013D"/>
+	<outline>
+		<component base="L"/>
+		<component base="uni0326" xScale="0.8035" yScale="0.8035" xOffset="1169" yOffset="1366"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0326</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

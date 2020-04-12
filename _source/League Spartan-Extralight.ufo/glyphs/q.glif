@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+	<advance width="1021"/>
+	<unicode hex="0071"/>
+	<outline>
+		<component base="p" xScale="-1" xOffset="1021"/>
+	</outline>
+</glyph>

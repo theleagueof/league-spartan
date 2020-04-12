@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute" format="2">
+	<advance width="1174"/>
+	<unicode hex="01FB"/>
+	<outline>
+		<component base="a"/>
+		<component base="uni030A" xOffset="955"/>
+		<component base="acutecomb" xOffset="1049" yOffset="609"/>
+	</outline>
+</glyph>

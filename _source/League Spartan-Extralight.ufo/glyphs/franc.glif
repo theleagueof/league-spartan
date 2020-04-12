@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+	<advance width="867"/>
+	<unicode hex="20A3"/>
+	<outline>
+		<contour>
+			<point x="509" y="395" type="line"/>
+			<point x="-19" y="395" type="line"/>
+			<point x="-19" y="331" type="line"/>
+			<point x="509" y="331" type="line"/>
+		</contour>
+		<component base="F"/>
+	</outline>
+</glyph>

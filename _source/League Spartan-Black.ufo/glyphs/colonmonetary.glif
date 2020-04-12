@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonmonetary" format="2">
+	<advance width="1206"/>
+	<unicode hex="20A1"/>
+	<outline>
+		<component base="C"/>
+		<component base="slash" xOffset="320"/>
+		<component base="slash" xOffset="-26" yOffset="10"/>
+	</outline>
+</glyph>

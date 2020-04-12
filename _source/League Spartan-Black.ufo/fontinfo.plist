@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1376</integer>
+	<key>capHeight</key>
+	<integer>1320</integer>
+	<key>descender</key>
+	<integer>-416</integer>
+	<key>familyName</key>
+	<string>League Spartan</string>
+	<key>openTypeHeadCreated</key>
+	<string>2020/04/11 15:59:32</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2480</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-690</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Black</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2480</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-690</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>800</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2480</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>690</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-26</integer>
+		<integer>0</integer>
+		<integer>821</integer>
+		<integer>847</integer>
+		<integer>1320</integer>
+		<integer>1346</integer>
+		<integer>1376</integer>
+		<integer>1402</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>LeagueSpartan-Black</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-442</integer>
+		<integer>-416</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>336</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>387</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>League Spartan Black</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Black</string>
+	<key>unitsPerEm</key>
+	<integer>2000</integer>
+	<key>versionMajor</key>
+	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>201</integer>
+	<key>xHeight</key>
+	<integer>821</integer>
+</dict>
+</plist>
