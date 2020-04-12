@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss02" format="2">
+	<advance width="1405"/>
+	<anchor x="683" y="1320" name="top"/>
+	<anchor x="683" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="669" y="-24" type="curve"/>
+			<point x="669" y="-24" type="line"/>
+			<point x="854" y="-24"/>
+			<point x="1006" y="48"/>
+			<point x="1114" y="166" type="curve"/>
+			<point x="1206" y="115"/>
+			<point x="1290" y="83"/>
+			<point x="1347" y="70" type="curve"/>
+			<point x="1378" y="123" type="line"/>
+			<point x="1339" y="130"/>
+			<point x="1250" y="168"/>
+			<point x="1149" y="219" type="curve"/>
+			<point x="1226" y="331"/>
+			<point x="1275" y="485"/>
+			<point x="1275" y="661" type="curve"/>
+			<point x="1275" y="1046"/>
+			<point x="1034" y="1344"/>
+			<point x="669" y="1344" type="curve"/>
+			<point x="306" y="1344"/>
+			<point x="61" y="1046"/>
+			<point x="61" y="661" type="curve"/>
+			<point x="61" y="275"/>
+			<point x="278" y="-24"/>
+		</contour>
+		<contour>
+			<point x="669" y="40" type="curve"/>
+			<point x="669" y="40" type="line"/>
+			<point x="322" y="40"/>
+			<point x="126" y="325"/>
+			<point x="126" y="661" type="curve"/>
+			<point x="126" y="997"/>
+			<point x="336" y="1280"/>
+			<point x="669" y="1280" type="curve"/>
+			<point x="1002" y="1280"/>
+			<point x="1210" y="997"/>
+			<point x="1210" y="661" type="curve"/>
+			<point x="1210" y="504"/>
+			<point x="1166" y="360"/>
+			<point x="1091" y="253" type="curve"/>
+			<point x="1010" y="299"/>
+			<point x="915" y="360"/>
+			<point x="824" y="454" type="curve"/>
+			<point x="784" y="405" type="line"/>
+			<point x="864" y="320"/>
+			<point x="955" y="254"/>
+			<point x="1053" y="195" type="curve"/>
+			<point x="955" y="91"/>
+			<point x="813" y="40"/>
+		</contour>
+	</outline>
+</glyph>

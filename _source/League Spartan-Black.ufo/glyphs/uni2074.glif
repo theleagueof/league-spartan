@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2074" format="2">
+	<advance width="452"/>
+	<unicode hex="2074"/>
+	<outline>
+		<component base="four" xScale="0.3993" yScale="0.3993" xOffset="-6" yOffset="794"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>four</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four</string>
+		</dict>
+	</lib>
+</glyph>

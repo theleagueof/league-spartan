@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+	<advance width="878"/>
+	<unicode hex="2020"/>
+	<outline>
+		<component base="bar" xOffset="179"/>
+		<component base="endash" xScale="0.749" xOffset="77" yOffset="462"/>
+	</outline>
+</glyph>

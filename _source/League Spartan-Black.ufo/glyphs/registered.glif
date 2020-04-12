@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="registered" format="2">
+	<advance width="830"/>
+	<unicode hex="00AE"/>
+	<outline>
+		<contour>
+			<point x="45" y="984" type="curve"/>
+			<point x="45" y="984" type="line"/>
+			<point x="45" y="787"/>
+			<point x="206" y="627"/>
+			<point x="402" y="627" type="curve"/>
+			<point x="602" y="627"/>
+			<point x="762" y="787"/>
+			<point x="762" y="984" type="curve"/>
+			<point x="762" y="1182"/>
+			<point x="602" y="1344"/>
+			<point x="402" y="1344" type="curve"/>
+			<point x="206" y="1344"/>
+			<point x="45" y="1182"/>
+		</contour>
+		<contour>
+			<point x="162" y="984" type="curve"/>
+			<point x="162" y="984" type="line"/>
+			<point x="162" y="1118"/>
+			<point x="270" y="1227"/>
+			<point x="402" y="1227" type="curve"/>
+			<point x="538" y="1227"/>
+			<point x="645" y="1118"/>
+			<point x="645" y="984" type="curve"/>
+			<point x="645" y="851"/>
+			<point x="538" y="744"/>
+			<point x="402" y="744" type="curve"/>
+			<point x="270" y="744"/>
+			<point x="162" y="851"/>
+		</contour>
+		<contour>
+			<point x="410" y="1152" type="curve"/>
+			<point x="286" y="1152" type="line"/>
+			<point x="286" y="821" type="line"/>
+			<point x="371" y="821" type="line"/>
+			<point x="371" y="952" type="line"/>
+			<point x="355" y="952" type="line"/>
+			<point x="466" y="821" type="line"/>
+			<point x="579" y="821" type="line"/>
+			<point x="448" y="958" type="line"/>
+			<point x="488" y="973"/>
+			<point x="518" y="1003"/>
+			<point x="518" y="1054" type="curve"/>
+			<point x="518" y="1118"/>
+			<point x="472" y="1152"/>
+		</contour>
+		<contour>
+			<point x="365" y="1011" type="curve"/>
+			<point x="371" y="1011" type="line"/>
+			<point x="371" y="1086" type="line"/>
+			<point x="366" y="1086" type="line" smooth="yes"/>
+			<point x="386" y="1086"/>
+			<point x="426" y="1088"/>
+			<point x="426" y="1046" type="curve"/>
+			<point x="426" y="1006"/>
+			<point x="387" y="1011"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="2">
+	<advance width="1165"/>
+	<unicode hex="0064"/>
+	<anchor x="555" y="597" name="center"/>
+	<anchor x="555" y="1440" name="top"/>
+	<anchor x="1109" y="1157" name="topright"/>
+	<anchor x="555" y="-186" name="bottom"/>
+	<outline>
+		<component base="b" xScale="-1" xOffset="1134"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>b</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

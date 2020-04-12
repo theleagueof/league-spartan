@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+	<advance width="859"/>
+	<unicode hex="00AA"/>
+	<outline>
+		<contour>
+			<point x="104" y="1074" type="curve"/>
+			<point x="104" y="1074" type="line"/>
+			<point x="104" y="938"/>
+			<point x="202" y="806"/>
+			<point x="355" y="806" type="curve"/>
+			<point x="418" y="806"/>
+			<point x="472" y="827"/>
+			<point x="520" y="872" type="curve"/>
+			<point x="522" y="872" type="line"/>
+			<point x="522" y="821" type="line"/>
+			<point x="733" y="821" type="line"/>
+			<point x="733" y="1328" type="line"/>
+			<point x="520" y="1328" type="line"/>
+			<point x="520" y="1290" type="line"/>
+			<point x="462" y="1333"/>
+			<point x="413" y="1344"/>
+			<point x="355" y="1344" type="curve"/>
+			<point x="202" y="1344"/>
+			<point x="104" y="1211"/>
+		</contour>
+		<contour>
+			<point x="336" y="1074" type="curve"/>
+			<point x="336" y="1074" type="line"/>
+			<point x="336" y="1123"/>
+			<point x="376" y="1165"/>
+			<point x="432" y="1165" type="curve"/>
+			<point x="483" y="1165"/>
+			<point x="523" y="1126"/>
+			<point x="523" y="1074" type="curve"/>
+			<point x="523" y="1021"/>
+			<point x="486" y="984"/>
+			<point x="432" y="984" type="curve"/>
+			<point x="370" y="984"/>
+			<point x="336" y="1026"/>
+		</contour>
+	</outline>
+</glyph>

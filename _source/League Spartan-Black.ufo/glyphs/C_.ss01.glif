@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C.ss01" format="2">
+	<advance width="1306"/>
+	<outline>
+		<contour>
+			<point x="803" y="360" type="curve"/>
+			<point x="803" y="360" type="line"/>
+			<point x="550" y="360"/>
+			<point x="470" y="523"/>
+			<point x="470" y="661" type="curve"/>
+			<point x="470" y="797"/>
+			<point x="550" y="960"/>
+			<point x="803" y="960" type="curve"/>
+			<point x="896" y="960"/>
+			<point x="992" y="923"/>
+			<point x="1040" y="894" type="curve"/>
+			<point x="1205" y="1222" type="line"/>
+			<point x="1141" y="1275"/>
+			<point x="979" y="1344"/>
+			<point x="771" y="1344" type="curve"/>
+			<point x="381" y="1344"/>
+			<point x="50" y="1053"/>
+			<point x="50" y="658" type="curve"/>
+			<point x="50" y="264"/>
+			<point x="382" y="-24"/>
+			<point x="771" y="-24" type="curve"/>
+			<point x="979" y="-24"/>
+			<point x="1141" y="45"/>
+			<point x="1205" y="98" type="curve"/>
+			<point x="1040" y="426" type="line"/>
+			<point x="992" y="397"/>
+			<point x="896" y="360"/>
+		</contour>
+	</outline>
+</glyph>
