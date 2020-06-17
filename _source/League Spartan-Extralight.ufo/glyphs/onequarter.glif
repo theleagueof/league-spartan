@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+	<advance width="1312"/>
+	<unicode hex="00BC"/>
+	<outline>
+		<component base="fraction" xOffset="467"/>
+		<component base="one" xScale="0.586" yScale="0.586" xOffset="90" yOffset="550"/>
+		<component base="four" xScale="0.5833" yScale="0.5833" xOffset="702"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

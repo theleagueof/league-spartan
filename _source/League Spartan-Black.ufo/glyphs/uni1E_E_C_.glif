@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EEC" format="2">
+	<advance width="1600"/>
+	<unicode hex="1EEC"/>
+	<outline>
+		<component base="Uhorn"/>
+		<component base="hookabovecomb" xOffset="1160" yOffset="499"/>
+	</outline>
+</glyph>

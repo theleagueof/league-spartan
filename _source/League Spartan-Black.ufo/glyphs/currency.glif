@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="2">
+	<advance width="1085"/>
+	<unicode hex="00A4"/>
+	<outline>
+		<contour>
+			<point x="1056" y="922" type="line"/>
+			<point x="904" y="1072" type="line"/>
+			<point x="744" y="912" type="line"/>
+			<point x="894" y="760" type="line"/>
+		</contour>
+		<contour>
+			<point x="350" y="216" type="line"/>
+			<point x="200" y="368" type="line"/>
+			<point x="38" y="206" type="line"/>
+			<point x="190" y="56" type="line"/>
+		</contour>
+		<contour>
+			<point x="350" y="912" type="line"/>
+			<point x="190" y="1072" type="line"/>
+			<point x="38" y="922" type="line"/>
+			<point x="200" y="760" type="line"/>
+		</contour>
+		<contour>
+			<point x="1056" y="206" type="line"/>
+			<point x="894" y="368" type="line"/>
+			<point x="744" y="216" type="line"/>
+			<point x="904" y="56" type="line"/>
+		</contour>
+		<component base="o" xOffset="32" yOffset="160"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

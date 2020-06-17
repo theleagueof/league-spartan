@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+	<advance width="1154"/>
+	<unicode hex="20A7"/>
+	<outline>
+		<component base="P"/>
+		<component base="macron" xScale="1.7241" yScale="0.6344" xOffset="-205" yOffset="192"/>
+	</outline>
+</glyph>

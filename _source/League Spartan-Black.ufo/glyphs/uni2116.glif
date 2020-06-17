@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="2">
+	<advance width="2562"/>
+	<unicode hex="2116"/>
+	<outline>
+		<contour>
+			<point x="2477" y="294" type="line"/>
+			<point x="1565" y="294" type="line"/>
+			<point x="1565" y="0" type="line"/>
+			<point x="2477" y="0" type="line"/>
+		</contour>
+		<component base="N"/>
+		<component base="o" xOffset="1509" yOffset="486"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

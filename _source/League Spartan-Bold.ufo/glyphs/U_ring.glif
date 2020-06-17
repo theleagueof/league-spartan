@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+	<advance width="744"/>
+	<unicode hex="016E"/>
+	<outline>
+		<contour>
+			<point x="694" y="825" type="line"/>
+			<point x="506" y="825" type="line"/>
+			<point x="506" y="348" type="line" smooth="yes"/>
+			<point x="506" y="210"/>
+			<point x="464" y="170"/>
+			<point x="372" y="170" type="curve"/>
+			<point x="280" y="170"/>
+			<point x="238" y="210"/>
+			<point x="238" y="348" type="curve"/>
+			<point x="238" y="825" type="line"/>
+			<point x="50" y="825" type="line"/>
+			<point x="50" y="293" type="line" smooth="yes"/>
+			<point x="50" y="89"/>
+			<point x="162" y="-15"/>
+			<point x="372" y="-15" type="curve"/>
+			<point x="582" y="-15"/>
+			<point x="694" y="89"/>
+			<point x="694" y="293" type="curve"/>
+		</contour>
+		<contour>
+			<point x="211" y="1045" type="curve"/>
+			<point x="211" y="1045" type="line"/>
+			<point x="211" y="961"/>
+			<point x="276" y="902"/>
+			<point x="372" y="902" type="curve"/>
+			<point x="466" y="902"/>
+			<point x="533" y="961"/>
+			<point x="533" y="1045" type="curve"/>
+			<point x="533" y="1128"/>
+			<point x="463" y="1187"/>
+			<point x="372" y="1187" type="curve"/>
+			<point x="282" y="1187"/>
+			<point x="211" y="1128"/>
+		</contour>
+		<contour>
+			<point x="311" y="1045" type="curve"/>
+			<point x="311" y="1045" type="line"/>
+			<point x="311" y="1079"/>
+			<point x="339" y="1107"/>
+			<point x="372" y="1107" type="curve"/>
+			<point x="406" y="1107"/>
+			<point x="433" y="1079"/>
+			<point x="433" y="1045" type="curve"/>
+			<point x="433" y="1010"/>
+			<point x="407" y="981"/>
+			<point x="372" y="981" type="curve"/>
+			<point x="336" y="981"/>
+			<point x="311" y="1010"/>
+		</contour>
+	</outline>
+</glyph>

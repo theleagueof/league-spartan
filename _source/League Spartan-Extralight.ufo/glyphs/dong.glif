@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="2">
+	<advance width="989"/>
+	<unicode hex="20AB"/>
+	<outline>
+		<component base="d"/>
+		<component base="macron" xOffset="45" yOffset="-1235"/>
+		<component base="macron" xOffset="286"/>
+	</outline>
+</glyph>

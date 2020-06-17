@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="2">
+	<advance width="661"/>
+	<unicode hex="0151"/>
+	<outline>
+		<contour>
+			<point x="23" y="256" type="curve"/>
+			<point x="23" y="256" type="line"/>
+			<point x="23" y="416"/>
+			<point x="159" y="528"/>
+			<point x="332" y="528" type="curve"/>
+			<point x="502" y="528"/>
+			<point x="638" y="416"/>
+			<point x="638" y="256" type="curve"/>
+			<point x="638" y="98"/>
+			<point x="509" y="-15"/>
+			<point x="332" y="-15" type="curve"/>
+			<point x="147" y="-15"/>
+			<point x="23" y="98"/>
+		</contour>
+		<contour>
+			<point x="211" y="256" type="curve"/>
+			<point x="211" y="256" type="line"/>
+			<point x="211" y="186"/>
+			<point x="259" y="136"/>
+			<point x="331" y="136" type="curve"/>
+			<point x="400" y="136"/>
+			<point x="450" y="186"/>
+			<point x="450" y="256" type="curve"/>
+			<point x="450" y="327"/>
+			<point x="397" y="377"/>
+			<point x="331" y="377" type="curve"/>
+			<point x="264" y="377"/>
+			<point x="211" y="327"/>
+		</contour>
+		<contour>
+			<point x="123" y="664" type="line"/>
+			<point x="179" y="587" type="line"/>
+			<point x="378" y="756" type="line"/>
+			<point x="296" y="860" type="line"/>
+		</contour>
+		<contour>
+			<point x="334" y="664" type="line"/>
+			<point x="390" y="587" type="line"/>
+			<point x="589" y="756" type="line"/>
+			<point x="507" y="860" type="line"/>
+		</contour>
+	</outline>
+</glyph>
