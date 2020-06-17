@@ -2,22 +2,12 @@
 
 set -e
 
-
-cd sources
-
 echo "Generating Static fonts"
-mkdir -p ../fonts/static/ttf
-fontmake -g LeagueSpartanVariable.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
+mkdir -p fonts/static/ttf
+fontmake -g LeagueSpartanVariable.glyphs -i -o ttf --output-dir fonts/static/ttf/
 
-mkdir -p ../fonts/static/otf
-fontmake -g LeagueSpartanVariable.glyphs -i -o otf --output-dir ../fonts/static/otf/
-
-
-
-
-
-
-cd ..
+mkdir -p fonts/static/otf
+fontmake -g LeagueSpartanVariable.glyphs -i -o otf --output-dir fonts/static/otf/
 
 # ============================================================================
 # Autohinting ================================================================
@@ -72,27 +62,21 @@ for woff in $woffs; do
     mv $woff fonts/web/woff/$(basename $woff)
 done
 
-
-
-cd sources
-
 echo "Generating VFs"
-mkdir -p ../fonts/variable
-fontmake -g LeagueSpartanVariable.glyphs -o variable --output-path ../fonts/variable/LeagueSpartanVariable.ttf
+mkdir -p fonts/variable
+fontmake -g LeagueSpartanVariable.glyphs -o variable --output-path fonts/variable/LeagueSpartanVariable.ttf
 
 rm -rf master_ufo/ instance_ufo/
 
-
-cd ../fonts/variable
+pushd fonts/variable
 
 woff2_compress LeagueSpartanVariable.ttf
 
-cd ..
+popd
 
 echo "Post processing"
 
-
-ttfs=$(ls ../fonts/static/ttf/*.ttf)
+ttfs=$(ls fonts/static/ttf/*.ttf)
 echo $ttfs
 for ttf in $ttfs
 do
@@ -100,9 +84,9 @@ do
 	gftools fix-nonhinting $ttf $ttf.fix;
 	mv "$ttf.fix" $ttf;
 done
-rm ../fonts/static/ttf/*gasp.ttf
+rm fonts/static/ttf/*gasp.ttf
 
-vfs=$(ls ../fonts/variable/*.ttf)
+vfs=$(ls fonts/variable/*.ttf)
 for vf in $vfs
 do
   gftools fix-dsig -f $vf;
@@ -110,9 +94,9 @@ do
   mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/variable/$rtrip.ttx;
+	new_file=fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
-	rm ../fonts/variable/*.ttx
+	rm fonts/variable/*.ttx
 done
-rm ../fonts/variable/*gasp.ttf
+rm fonts/variable/*gasp.ttf
