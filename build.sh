@@ -4,10 +4,10 @@ set -e
 
 echo "Generating Static fonts"
 mkdir -p fonts/static/ttf
-fontmake -g LeagueSpartanVariable.glyphs -i -o ttf --output-dir fonts/static/ttf/
+fontmake -g LeagueSpartan.glyphs -i -o ttf --output-dir fonts/static/ttf/
 
 mkdir -p fonts/static/otf
-fontmake -g LeagueSpartanVariable.glyphs -i -o otf --output-dir fonts/static/otf/
+fontmake -g LeagueSpartan.glyphs -i -o otf --output-dir fonts/static/otf/
 
 # ============================================================================
 # Autohinting ================================================================
@@ -64,7 +64,7 @@ done
 
 echo "Generating VFs"
 mkdir -p fonts/variable
-fontmake -g LeagueSpartanVariable.glyphs -o variable --output-path fonts/variable/LeagueSpartanVariable.ttf
+fontmake -g LeagueSpartan.glyphs -o variable --output-path fonts/variable/LeagueSpartanVariable.ttf
 
 rm -rf master_ufo/ instance_ufo/
 
