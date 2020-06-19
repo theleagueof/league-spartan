@@ -1,3 +1,6 @@
 .DS_Store
-_reference/
 tags
+instance_otf/
+instance_ttf/
+instance_ufo/
+variable_ttf/
