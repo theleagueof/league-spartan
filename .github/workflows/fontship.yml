@@ -12,9 +12,25 @@ jobs:
       - name: Fetch tags
         run: git fetch --prune --tags
       - name: Fontship make
+        id: fontship
         uses: theleagueof/fontship@github-action
       - name: Upload artifacts
         uses: actions/upload-artifact@v2-preview
         with:
-          name: Fontship-artifacts
-          path: "*-*.[otw][ot]f*"
+          name: ${{ steps.fontship.outputs.DISTDIR }}
+          path: ${{ steps.fontship.outputs.DISTDIR }}/**
+  publish:
+    needs:
+      - fontship
+    if: contains(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    name: Publish
+    steps:
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            ${{ needs.fontship.outputs.DISTDIR }}.zip
+            ${{ needs.fontship.outputs.DISTDIR }}.tar.bz2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
