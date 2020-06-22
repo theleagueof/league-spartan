@@ -7,5 +7,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Fetch Tags
+        run: git fetch --prune --tags
       - name: Fontship make
         uses: theleagueof/fontship@github-action
