@@ -1,0 +1,11 @@
+on: [push]
+
+jobs:
+  fontship:
+    runs-on: ubuntu-latest
+    name: Build font with Fontship
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fontship make
+        uses: theleagueof/fontship@github-action
