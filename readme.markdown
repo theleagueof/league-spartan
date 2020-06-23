@@ -7,6 +7,11 @@ Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive e
 
 ![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
 
+Download
+--------
+
+Download the most recent ZIP with all available font formats from from the [Github Releases page](https://github.com/theleagueof/league-spartan/releases).
+
 Language Support
 ----------------
 
