@@ -3,9 +3,9 @@
 League Spartan Variable
 =======================
 
-Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive efforts, this version of **League Spartan** has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, redrawn for better variable rendering. But take note — it will differ slightly from the first version (particularly in spacing).
+Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive efforts, **League Spartan** has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, redrawn for better variable rendering. But take note — it will differ slightly from the [first version](https://github.com/theleagueof/league-spartan/releases/tag/1.000) (particularly in spacing).
 
-![Updated League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
+![League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
 
 Download
 --------
