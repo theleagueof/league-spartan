@@ -10,7 +10,7 @@ Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive e
 Download
 --------
 
-Download the most recent ZIP with all available font formats from from the [Github Releases page](https://github.com/theleagueof/league-spartan/releases).
+The most recent ZIP file with all available font formats can be downloaded from from the [Github Releases page](https://github.com/theleagueof/league-spartan/releases). If you'd like to edit the font or just build it yourself, you can clone this repository or download the source of a release and build it yourself using [fontship](https://github.com/theleagueof/fontship).
 
 Language Support
 ----------------
