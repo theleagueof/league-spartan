@@ -1,16 +1,16 @@
+# OS/Editor cruft
 .DS_Store
-.last-commit
-*.zip
-*.tar.bz2
+tags
+
+# Build dir
+.fontship/**
+
+# Output formats
 *.otf
 *.ttf
 *.woff
 *.woff2
-*.ttx
-tags
-instance_otf/
-instance_ttf/
-instance_ufo/
-master_ufo/
-variable_ttf/
-variable_otf/
+
+# Dist files
+*.tar.bz2
+*.zip
