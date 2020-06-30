@@ -13,6 +13,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
+copyright = OFL;
 customParameters = (
 {
 name = Axes;
@@ -33617,7 +33618,7 @@ e = -32;
 };
 };
 manufacturer = "The League of Moveable Type";
-manufacturerURL = "http://www.theleagueofmoveabletype.com";
+manufacturerURL = "https://www.theleagueofmoveabletype.com";
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
