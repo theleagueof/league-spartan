@@ -32520,7 +32520,7 @@ name = familyName;
 value = "League Spartan";
 }
 );
-interpolationWeight = 277;
+interpolationWeight = 300;
 interpolationWidth = 5;
 instanceInterpolations = {
 "9D4C2422-5CE9-4C2E-AAC7-BF869A02F5C8" = 0.89;
@@ -32536,7 +32536,7 @@ name = familyName;
 value = "League Spartan";
 }
 );
-interpolationWeight = 380;
+interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
 "9D4C2422-5CE9-4C2E-AAC7-BF869A02F5C8" = 0.74286;
