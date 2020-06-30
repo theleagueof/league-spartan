@@ -1,6 +1,7 @@
 # OS/Editor cruft
 .DS_Store
 tags
+*(Autosaved).glyphs
 
 # Build dir
 .fontship/**
