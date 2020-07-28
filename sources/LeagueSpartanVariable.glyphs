@@ -117,19 +117,19 @@ custom = Extralight;
 customParameters = (
 {
 name = typoAscender;
-value = 2480;
+value = 2282;
 },
 {
 name = hheaAscender;
-value = 2480;
+value = 2282;
 },
 {
 name = winAscent;
-value = 2480;
+value = 2282;
 },
 {
 name = hheaDescender;
-value = -690;
+value = -888;
 },
 {
 name = typoLineGap;
@@ -137,11 +137,11 @@ value = 0;
 },
 {
 name = typoDescender;
-value = -690;
+value = -888;
 },
 {
 name = winDescent;
-value = 690;
+value = 888;
 },
 {
 name = hheaLineGap;
@@ -175,19 +175,19 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 2480;
+value = 2282;
 },
 {
 name = hheaAscender;
-value = 2480;
+value = 2282;
 },
 {
 name = winAscent;
-value = 2480;
+value = 2282;
 },
 {
 name = hheaDescender;
-value = -690;
+value = -888;
 },
 {
 name = typoLineGap;
@@ -195,11 +195,11 @@ value = 0;
 },
 {
 name = typoDescender;
-value = -690;
+value = -888;
 },
 {
 name = winDescent;
-value = 690;
+value = 888;
 },
 {
 name = hheaLineGap;
