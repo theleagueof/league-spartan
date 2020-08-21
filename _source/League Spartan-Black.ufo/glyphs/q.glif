@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="q" format="2">
-	<advance width="1174"/>
-	<unicode hex="0071"/>
-	<outline>
-		<component base="p" xScale="-1" xOffset="1174"/>
-	</outline>
-</glyph>
