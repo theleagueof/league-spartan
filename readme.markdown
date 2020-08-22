@@ -3,6 +3,10 @@
 League Spartan Variable
 =======================
 
+[![Latest Release](https://img.shields.io/github/v/release/theleagueof/league-spartan?label=Download%20Release&logo=Github)](https://github.com/theleagueof/league-spartan/releases/latest)
+[![All Releases](https://img.shields.io/github/downloads/theleagueof/league-spartan/total)](https://github.com/theleagueof/league-spartan/releases)
+[![Fontship Build Status](https://img.shields.io/github/workflow/status/theleagueof/league-spartan/Fontship?label=Fontship&logo=Codeship)](https://github.com/theleagueof/league-spartan/actions?workflow=Fontship)
+
 Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive efforts, **League Spartan** has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, redrawn for better variable rendering. But take note — it will differ slightly from the [first version](https://github.com/theleagueof/league-spartan/releases/tag/1.000) (particularly in spacing).
 
 ![League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
