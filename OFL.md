@@ -1,18 +1,20 @@
-	Copyright (c) September 22 2014, Micah Rich micah@micahrich.com, with Reserved Font Name: "League Spartan".
+    Copyright (c) September 22 2014, Micah Rich <micah@micahrich.com>,
+    with Reserved Font Name: "League Spartan".
 
-	This Font Software is licensed under the SIL Open Font License, Version 1.1.
-	This license is copied below, and is also available with a FAQ at:
-	http://scripts.sil.org/OFL
+    This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    This license is copied below, and is also available with a FAQ at:
+    http://scripts.sil.org/OFL
 
-	Version 1.1 - 26 February 2007
+    Version 1.1 - 26 February 2007
 
+----
 
 SIL Open Font License
-====================================================
+=====================
 
 
 Preamble
-----------
+--------
 
 The goals of the Open Font License (OFL) are to stimulate worldwide
 development of collaborative font projects, to support the font creation
@@ -30,7 +32,7 @@ requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 
 Definitions
--------------
+-----------
 
 `"Font Software"` refers to the set of files released by the Copyright
 Holder(s) under this license and clearly marked as such. This may
@@ -51,7 +53,7 @@ new environment.
 writer or other person who contributed to the Font Software.
 
 Permission & Conditions
-------------------------
+-----------------------
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
@@ -91,15 +93,15 @@ Termination
 This license becomes null and void if any of the above conditions are
 not met.
 
+Disclaimer
+----------
 
-	DISCLAIMER
-
-	THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-	EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
-	MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
-	OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
-	COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-	INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-	DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-	FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-	OTHER DEALINGS IN THE FONT SOFTWARE.
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
