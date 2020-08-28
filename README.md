@@ -29,7 +29,10 @@ It’s worth noting that you don’t need to use the variable version to get all
 How-to
 ------
 
-New to variable fonts? Great, maybe. Desktop applications are slowly adopting this updated TTF format. Currently support is limited to Adobe Illustrator and Adobe Photoshop. Install it like you would any other font.
+New to variable fonts?
+Great, maybe.
+Desktop applications are slowly adopting this updated font format.
+Install it like you would any other font, but be aware not all applications support variable font technology yet.
 
 Web use is a different story completely though. The variable TTF file will work on the web for some browsers but the variable WOFF2 file will provide almost complete support for modern browsers. That one file (lightweight at 24 kb!) can serve up all 8 pre-defined styles and whatever else you feel like using. I find that `font-variation-settings: "wght" 345;` renders better than `font-weight: 345;` Here is how you can initially call League Spartan in your css, provided your webfont is in the same directory as your stylesheet:
 
