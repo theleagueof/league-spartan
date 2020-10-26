@@ -17,9 +17,9 @@ jobs:
           git fetch --prune --tags ||:
       - name: Fontship make
         id: fontship
-        uses: docker://theleagueof/fontship:v0.3.4
+        uses: docker://theleagueof/fontship:v0.6.1
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2-preview
+        uses: actions/upload-artifact@v2
         with:
           name: ${{ steps.fontship.outputs.DISTDIR }}
           path: ${{ steps.fontship.outputs.DISTDIR }}.zip
@@ -31,4 +31,4 @@ jobs:
             ${{ steps.fontship.outputs.DISTDIR }}.zip
             ${{ steps.fontship.outputs.DISTDIR }}.tar.xz
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

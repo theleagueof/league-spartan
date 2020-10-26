@@ -58,8 +58,8 @@ name = "Axis Mappings";
 value = {
 wght = {
 200 = 200;
-277 = 300;
-350 = 400;
+300 = 277;
+400 = 380;
 500 = 500;
 600 = 600;
 700 = 700;
@@ -32520,7 +32520,7 @@ name = familyName;
 value = "League Spartan";
 }
 );
-interpolationWeight = 300;
+interpolationWeight = 277;
 interpolationWidth = 5;
 instanceInterpolations = {
 "9D4C2422-5CE9-4C2E-AAC7-BF869A02F5C8" = 0.89;
@@ -32536,7 +32536,7 @@ name = familyName;
 value = "League Spartan";
 }
 );
-interpolationWeight = 400;
+interpolationWeight = 380;
 interpolationWidth = 5;
 instanceInterpolations = {
 "9D4C2422-5CE9-4C2E-AAC7-BF869A02F5C8" = 0.74286;
