@@ -1,17 +1,12 @@
-# OS/Editor cruft
-.DS_Store
-tags
-*(Autosaved).glyphs
-
-# Build dir
-.fontship/**
-
-# Output formats
+.fontship
 *.otf
 *.ttf
 *.woff
 *.woff2
-
-# Dist files
-*.tar.bz2
-*.zip
+LeagueSpartan-*
+!*/LeagueSpartan-*
+.DS_Store
+sources/*(Autosaved).glyphs
+sources/*_backups
+sources/*.sfd
+sources/*.ufo
