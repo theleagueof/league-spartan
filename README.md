@@ -1,4 +1,4 @@
-![League Spartan Variable](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-variable.gif)
+![League Spartan Variable](documentation/leaguespartan-variable.gif)
 
 League Spartan Variable
 =======================
@@ -9,7 +9,7 @@ League Spartan Variable
 
 Thanks to [Tyler Finck's](https://twitter.com/typeler) repeated and exhaustive efforts, **League Spartan** has been expanded considerably with multiple weights, from Extralight (200) to Black (900). The Bold style (700) is as close to the original League version as you’re going to get here, redrawn for better variable rendering. But take note — it will differ slightly from the [first version](https://github.com/theleagueof/league-spartan/releases/tag/1.000) (particularly in spacing).
 
-![League Spartan Styles](https://raw.githubusercontent.com/sursly/league-spartan/master/_images/leaguespartan-styles.png)
+![League Spartan Styles](documentation/leaguespartan-styles.png)
 
 Download
 --------
@@ -25,6 +25,23 @@ Names
 -----
 
 It’s worth noting that you don’t need to use the variable version to get all 8 styles. The static OTF and TTF files (in their respective folders) will work and are simply named *League Spartan*.
+
+Build the font
+--------------
+
+You can build the font locally, after cloning this repo.
+    
+1. At the root of your local clone (cd path/to/local/clone), create a virtual environment: python3 -m venv env
+    
+2. Activate the virtual env: source env/bin/activate
+    
+3. Install gftools (or the requirements) in the virtual env: pip install gftools
+    
+4. go to the "sources" directory and from the terminal, run : gftools builder LeagueSpartan.glyphs
+    
+5. There! you will find the fonts in the fonts directory.
+
+Don't forget to alway activate your virtual environment before running gftools builder.
 
 How-to
 ------
