@@ -1,10 +1,4 @@
 .fontship
-*.otf
-*.ttf
-*.woff
-*.woff2
-LeagueSpartan-*
-!*/LeagueSpartan-*
 .DS_Store
 sources/*(Autosaved).glyphs
 sources/*_backups
