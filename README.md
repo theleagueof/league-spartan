@@ -41,7 +41,7 @@ You can build the font locally, after cloning this repo.
     
 5. There! you will find the fonts in the fonts directory.
 
-Don't forget to alway activate your virtual environment before running gftools builder.
+Don't forget to always activate your virtual environment before running gftools builder.
 
 How-to
 ------
@@ -64,7 +64,7 @@ Web use is a different story completely though. The variable TTF file will work 
 License
 -------
 
-This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.md).
+This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.txt).
 To understand what the OFL means to your use of these fonts, see the [detailed FAQ online](https://scripts.sil.org/OFL-FAQ_web).
 
 Questions/suggestions
