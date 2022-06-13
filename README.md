@@ -41,7 +41,7 @@ You can build the font locally, after cloning this repo.
     
 5. There! you will find the fonts in the fonts directory.
 
-Don't forget to alway activate your virtual environment before running gftools builder.
+Don't forget to always activate your virtual environment before running gftools builder.
 
 How-to
 ------
